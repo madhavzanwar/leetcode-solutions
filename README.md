@@ -16,4 +16,12 @@ My LeetCode problem-solving journey — tracking solutions and progress in DSA.
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/madhavzanwar/leetcode-solutions/tree/master/0412-fizz-buzz) |
+## Array
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/madhavzanwar/leetcode-solutions/tree/master/0001-two-sum) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/madhavzanwar/leetcode-solutions/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
