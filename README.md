@@ -16,6 +16,7 @@ My LeetCode problem-solving journey — tracking solutions and progress in DSA.
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/madhavzanwar/leetcode-solutions/tree/master/0049-group-anagrams) |
+| [0058-length-of-last-word](https://github.com/madhavzanwar/leetcode-solutions/tree/master/0058-length-of-last-word) |
 | [0242-valid-anagram](https://github.com/madhavzanwar/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0412-fizz-buzz](https://github.com/madhavzanwar/leetcode-solutions/tree/master/0412-fizz-buzz) |
 | [1108-defanging-an-ip-address](https://github.com/madhavzanwar/leetcode-solutions/tree/master/1108-defanging-an-ip-address) |
