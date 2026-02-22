@@ -20,6 +20,7 @@ My LeetCode problem-solving journey — tracking solutions and progress in DSA.
 | [0058-length-of-last-word](https://github.com/madhavzanwar/leetcode-solutions/tree/master/0058-length-of-last-word) |
 | [0242-valid-anagram](https://github.com/madhavzanwar/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0412-fizz-buzz](https://github.com/madhavzanwar/leetcode-solutions/tree/master/0412-fizz-buzz) |
+| [0771-jewels-and-stones](https://github.com/madhavzanwar/leetcode-solutions/tree/master/0771-jewels-and-stones) |
 | [1108-defanging-an-ip-address](https://github.com/madhavzanwar/leetcode-solutions/tree/master/1108-defanging-an-ip-address) |
 ## Simulation
 |  |
@@ -39,6 +40,7 @@ My LeetCode problem-solving journey — tracking solutions and progress in DSA.
 | [0049-group-anagrams](https://github.com/madhavzanwar/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/madhavzanwar/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/madhavzanwar/leetcode-solutions/tree/master/0242-valid-anagram) |
+| [0771-jewels-and-stones](https://github.com/madhavzanwar/leetcode-solutions/tree/master/0771-jewels-and-stones) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/madhavzanwar/leetcode-solutions/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 ## Sorting
 |  |
