@@ -16,6 +16,7 @@ My LeetCode problem-solving journey — tracking solutions and progress in DSA.
 | [2769-find-the-maximum-achievable-number](https://github.com/madhavzanwar/leetcode-solutions/tree/master/2769-find-the-maximum-achievable-number) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/madhavzanwar/leetcode-solutions/tree/master/2894-divisible-and-non-divisible-sums-difference) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/madhavzanwar/leetcode-solutions/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/madhavzanwar/leetcode-solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## String
 |  |
 | ------- |
@@ -70,4 +71,5 @@ My LeetCode problem-solving journey — tracking solutions and progress in DSA.
 |  |
 | ------- |
 | [2413-smallest-even-multiple](https://github.com/madhavzanwar/leetcode-solutions/tree/master/2413-smallest-even-multiple) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/madhavzanwar/leetcode-solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
 <!---LeetCode Topics End-->
