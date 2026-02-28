@@ -37,6 +37,7 @@ My LeetCode problem-solving journey — tracking solutions and progress in DSA.
 | [0412-fizz-buzz](https://github.com/madhavzanwar/leetcode-solutions/tree/master/0412-fizz-buzz) |
 | [1929-concatenation-of-array](https://github.com/madhavzanwar/leetcode-solutions/tree/master/1929-concatenation-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/madhavzanwar/leetcode-solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
+| [3701-compute-alternating-sum](https://github.com/madhavzanwar/leetcode-solutions/tree/master/3701-compute-alternating-sum) |
 ## Array
 |  |
 | ------- |
@@ -50,6 +51,7 @@ My LeetCode problem-solving journey — tracking solutions and progress in DSA.
 | [2942-find-words-containing-character](https://github.com/madhavzanwar/leetcode-solutions/tree/master/2942-find-words-containing-character) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/madhavzanwar/leetcode-solutions/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/madhavzanwar/leetcode-solutions/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
+| [3701-compute-alternating-sum](https://github.com/madhavzanwar/leetcode-solutions/tree/master/3701-compute-alternating-sum) |
 ## Hash Table
 |  |
 | ------- |
