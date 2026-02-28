@@ -12,4 +12,5 @@ class Solution(object):
             else:
                 sum = sum - nums[i]
         return sum
-            
+#BEST APPROACH:
+#return sum(nums[0::2]) - sum(nums[1::2])
