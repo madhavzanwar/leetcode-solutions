@@ -6,6 +6,7 @@ My LeetCode problem-solving journey — tracking solutions and progress in DSA.
 ## Math
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/madhavzanwar/leetcode-solutions/tree/master/0012-integer-to-roman) |
 | [0029-divide-two-integers](https://github.com/madhavzanwar/leetcode-solutions/tree/master/0029-divide-two-integers) |
 | [0231-power-of-two](https://github.com/madhavzanwar/leetcode-solutions/tree/master/0231-power-of-two) |
 | [0412-fizz-buzz](https://github.com/madhavzanwar/leetcode-solutions/tree/master/0412-fizz-buzz) |
@@ -23,6 +24,7 @@ My LeetCode problem-solving journey — tracking solutions and progress in DSA.
 ## String
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/madhavzanwar/leetcode-solutions/tree/master/0012-integer-to-roman) |
 | [0049-group-anagrams](https://github.com/madhavzanwar/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/madhavzanwar/leetcode-solutions/tree/master/0058-length-of-last-word) |
 | [0242-valid-anagram](https://github.com/madhavzanwar/leetcode-solutions/tree/master/0242-valid-anagram) |
@@ -57,6 +59,7 @@ My LeetCode problem-solving journey — tracking solutions and progress in DSA.
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/madhavzanwar/leetcode-solutions/tree/master/0001-two-sum) |
+| [0012-integer-to-roman](https://github.com/madhavzanwar/leetcode-solutions/tree/master/0012-integer-to-roman) |
 | [0049-group-anagrams](https://github.com/madhavzanwar/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/madhavzanwar/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/madhavzanwar/leetcode-solutions/tree/master/0242-valid-anagram) |
