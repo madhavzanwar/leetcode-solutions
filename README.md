@@ -38,6 +38,7 @@ My LeetCode problem-solving journey — tracking solutions and progress in DSA.
 | [1108-defanging-an-ip-address](https://github.com/madhavzanwar/leetcode-solutions/tree/master/1108-defanging-an-ip-address) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/madhavzanwar/leetcode-solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2942-find-words-containing-character](https://github.com/madhavzanwar/leetcode-solutions/tree/master/2942-find-words-containing-character) |
+| [3794-reverse-string-prefix](https://github.com/madhavzanwar/leetcode-solutions/tree/master/3794-reverse-string-prefix) |
 ## Simulation
 |  |
 | ------- |
@@ -127,4 +128,5 @@ My LeetCode problem-solving journey — tracking solutions and progress in DSA.
 |  |
 | ------- |
 | [2367-number-of-arithmetic-triplets](https://github.com/madhavzanwar/leetcode-solutions/tree/master/2367-number-of-arithmetic-triplets) |
+| [3794-reverse-string-prefix](https://github.com/madhavzanwar/leetcode-solutions/tree/master/3794-reverse-string-prefix) |
 <!---LeetCode Topics End-->
