@@ -20,6 +20,7 @@ My LeetCode problem-solving journey — tracking solutions and progress in DSA.
 | [2469-convert-the-temperature](https://github.com/madhavzanwar/leetcode-solutions/tree/master/2469-convert-the-temperature) |
 | [2769-find-the-maximum-achievable-number](https://github.com/madhavzanwar/leetcode-solutions/tree/master/2769-find-the-maximum-achievable-number) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/madhavzanwar/leetcode-solutions/tree/master/2894-divisible-and-non-divisible-sums-difference) |
+| [3280-convert-date-to-binary](https://github.com/madhavzanwar/leetcode-solutions/tree/master/3280-convert-date-to-binary) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/madhavzanwar/leetcode-solutions/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/madhavzanwar/leetcode-solutions/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3516-find-closest-person](https://github.com/madhavzanwar/leetcode-solutions/tree/master/3516-find-closest-person) |
@@ -39,6 +40,7 @@ My LeetCode problem-solving journey — tracking solutions and progress in DSA.
 | [1678-goal-parser-interpretation](https://github.com/madhavzanwar/leetcode-solutions/tree/master/1678-goal-parser-interpretation) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/madhavzanwar/leetcode-solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2942-find-words-containing-character](https://github.com/madhavzanwar/leetcode-solutions/tree/master/2942-find-words-containing-character) |
+| [3280-convert-date-to-binary](https://github.com/madhavzanwar/leetcode-solutions/tree/master/3280-convert-date-to-binary) |
 | [3498-reverse-degree-of-a-string](https://github.com/madhavzanwar/leetcode-solutions/tree/master/3498-reverse-degree-of-a-string) |
 | [3794-reverse-string-prefix](https://github.com/madhavzanwar/leetcode-solutions/tree/master/3794-reverse-string-prefix) |
 ## Simulation
