@@ -41,6 +41,7 @@ My LeetCode problem-solving journey — tracking solutions and progress in DSA.
 | [1108-defanging-an-ip-address](https://github.com/madhavzanwar/leetcode-solutions/tree/master/1108-defanging-an-ip-address) |
 | [1678-goal-parser-interpretation](https://github.com/madhavzanwar/leetcode-solutions/tree/master/1678-goal-parser-interpretation) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/madhavzanwar/leetcode-solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
+| [2114-maximum-number-of-words-found-in-sentences](https://github.com/madhavzanwar/leetcode-solutions/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2942-find-words-containing-character](https://github.com/madhavzanwar/leetcode-solutions/tree/master/2942-find-words-containing-character) |
 | [3280-convert-date-to-binary](https://github.com/madhavzanwar/leetcode-solutions/tree/master/3280-convert-date-to-binary) |
 | [3498-reverse-degree-of-a-string](https://github.com/madhavzanwar/leetcode-solutions/tree/master/3498-reverse-degree-of-a-string) |
@@ -67,6 +68,7 @@ My LeetCode problem-solving journey — tracking solutions and progress in DSA.
 | [1672-richest-customer-wealth](https://github.com/madhavzanwar/leetcode-solutions/tree/master/1672-richest-customer-wealth) |
 | [1929-concatenation-of-array](https://github.com/madhavzanwar/leetcode-solutions/tree/master/1929-concatenation-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/madhavzanwar/leetcode-solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
+| [2114-maximum-number-of-words-found-in-sentences](https://github.com/madhavzanwar/leetcode-solutions/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2367-number-of-arithmetic-triplets](https://github.com/madhavzanwar/leetcode-solutions/tree/master/2367-number-of-arithmetic-triplets) |
 | [2475-number-of-unequal-triplets-in-array](https://github.com/madhavzanwar/leetcode-solutions/tree/master/2475-number-of-unequal-triplets-in-array) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/madhavzanwar/leetcode-solutions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
