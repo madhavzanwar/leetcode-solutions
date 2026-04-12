@@ -28,6 +28,7 @@ My LeetCode problem-solving journey — tracking solutions and progress in DSA.
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/madhavzanwar/leetcode-solutions/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3516-find-closest-person](https://github.com/madhavzanwar/leetcode-solutions/tree/master/3516-find-closest-person) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/madhavzanwar/leetcode-solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
+| [3783-mirror-distance-of-an-integer](https://github.com/madhavzanwar/leetcode-solutions/tree/master/3783-mirror-distance-of-an-integer) |
 ## String
 |  |
 | ------- |
