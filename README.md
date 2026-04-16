@@ -16,6 +16,7 @@ My LeetCode problem-solving journey — tracking solutions and progress in DSA.
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/madhavzanwar/leetcode-solutions/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1323-maximum-69-number](https://github.com/madhavzanwar/leetcode-solutions/tree/master/1323-maximum-69-number) |
 | [1512-number-of-good-pairs](https://github.com/madhavzanwar/leetcode-solutions/tree/master/1512-number-of-good-pairs) |
+| [1688-count-of-matches-in-tournament](https://github.com/madhavzanwar/leetcode-solutions/tree/master/1688-count-of-matches-in-tournament) |
 | [2235-add-two-integers](https://github.com/madhavzanwar/leetcode-solutions/tree/master/2235-add-two-integers) |
 | [2413-smallest-even-multiple](https://github.com/madhavzanwar/leetcode-solutions/tree/master/2413-smallest-even-multiple) |
 | [2469-convert-the-temperature](https://github.com/madhavzanwar/leetcode-solutions/tree/master/2469-convert-the-temperature) |
@@ -56,6 +57,7 @@ My LeetCode problem-solving journey — tracking solutions and progress in DSA.
 | ------- |
 | [0067-add-binary](https://github.com/madhavzanwar/leetcode-solutions/tree/master/0067-add-binary) |
 | [0412-fizz-buzz](https://github.com/madhavzanwar/leetcode-solutions/tree/master/0412-fizz-buzz) |
+| [1688-count-of-matches-in-tournament](https://github.com/madhavzanwar/leetcode-solutions/tree/master/1688-count-of-matches-in-tournament) |
 | [1929-concatenation-of-array](https://github.com/madhavzanwar/leetcode-solutions/tree/master/1929-concatenation-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/madhavzanwar/leetcode-solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [3498-reverse-degree-of-a-string](https://github.com/madhavzanwar/leetcode-solutions/tree/master/3498-reverse-degree-of-a-string) |
