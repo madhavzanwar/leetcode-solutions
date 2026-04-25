@@ -61,6 +61,7 @@ My LeetCode problem-solving journey — tracking solutions and progress in DSA.
 | [0067-add-binary](https://github.com/madhavzanwar/leetcode-solutions/tree/master/0067-add-binary) |
 | [0412-fizz-buzz](https://github.com/madhavzanwar/leetcode-solutions/tree/master/0412-fizz-buzz) |
 | [1688-count-of-matches-in-tournament](https://github.com/madhavzanwar/leetcode-solutions/tree/master/1688-count-of-matches-in-tournament) |
+| [1920-build-array-from-permutation](https://github.com/madhavzanwar/leetcode-solutions/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/madhavzanwar/leetcode-solutions/tree/master/1929-concatenation-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/madhavzanwar/leetcode-solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [3498-reverse-degree-of-a-string](https://github.com/madhavzanwar/leetcode-solutions/tree/master/3498-reverse-degree-of-a-string) |
@@ -80,6 +81,7 @@ My LeetCode problem-solving journey — tracking solutions and progress in DSA.
 | [1534-count-good-triplets](https://github.com/madhavzanwar/leetcode-solutions/tree/master/1534-count-good-triplets) |
 | [1672-richest-customer-wealth](https://github.com/madhavzanwar/leetcode-solutions/tree/master/1672-richest-customer-wealth) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/madhavzanwar/leetcode-solutions/tree/master/1684-count-the-number-of-consistent-strings) |
+| [1920-build-array-from-permutation](https://github.com/madhavzanwar/leetcode-solutions/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/madhavzanwar/leetcode-solutions/tree/master/1929-concatenation-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/madhavzanwar/leetcode-solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/madhavzanwar/leetcode-solutions/tree/master/2114-maximum-number-of-words-found-in-sentences) |
