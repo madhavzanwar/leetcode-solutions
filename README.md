@@ -11,6 +11,7 @@ My LeetCode problem-solving journey — tracking solutions and progress in DSA.
 | [0012-integer-to-roman](https://github.com/madhavzanwar/leetcode-solutions/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/madhavzanwar/leetcode-solutions/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/madhavzanwar/leetcode-solutions/tree/master/0029-divide-two-integers) |
+| [0050-powx-n](https://github.com/madhavzanwar/leetcode-solutions/tree/master/0050-powx-n) |
 | [0067-add-binary](https://github.com/madhavzanwar/leetcode-solutions/tree/master/0067-add-binary) |
 | [0231-power-of-two](https://github.com/madhavzanwar/leetcode-solutions/tree/master/0231-power-of-two) |
 | [0412-fizz-buzz](https://github.com/madhavzanwar/leetcode-solutions/tree/master/0412-fizz-buzz) |
@@ -155,6 +156,7 @@ My LeetCode problem-solving journey — tracking solutions and progress in DSA.
 ## Recursion
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/madhavzanwar/leetcode-solutions/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/madhavzanwar/leetcode-solutions/tree/master/0231-power-of-two) |
 | [0509-fibonacci-number](https://github.com/madhavzanwar/leetcode-solutions/tree/master/0509-fibonacci-number) |
 ## Matrix
