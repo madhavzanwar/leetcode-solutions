@@ -12,6 +12,7 @@ My LeetCode problem-solving journey — tracking solutions and progress in DSA.
 | [0013-roman-to-integer](https://github.com/madhavzanwar/leetcode-solutions/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/madhavzanwar/leetcode-solutions/tree/master/0029-divide-two-integers) |
 | [0050-powx-n](https://github.com/madhavzanwar/leetcode-solutions/tree/master/0050-powx-n) |
+| [0066-plus-one](https://github.com/madhavzanwar/leetcode-solutions/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/madhavzanwar/leetcode-solutions/tree/master/0067-add-binary) |
 | [0231-power-of-two](https://github.com/madhavzanwar/leetcode-solutions/tree/master/0231-power-of-two) |
 | [0412-fizz-buzz](https://github.com/madhavzanwar/leetcode-solutions/tree/master/0412-fizz-buzz) |
@@ -76,6 +77,7 @@ My LeetCode problem-solving journey — tracking solutions and progress in DSA.
 | ------- |
 | [0001-two-sum](https://github.com/madhavzanwar/leetcode-solutions/tree/master/0001-two-sum) |
 | [0049-group-anagrams](https://github.com/madhavzanwar/leetcode-solutions/tree/master/0049-group-anagrams) |
+| [0066-plus-one](https://github.com/madhavzanwar/leetcode-solutions/tree/master/0066-plus-one) |
 | [0217-contains-duplicate](https://github.com/madhavzanwar/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0628-maximum-product-of-three-numbers](https://github.com/madhavzanwar/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/madhavzanwar/leetcode-solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
