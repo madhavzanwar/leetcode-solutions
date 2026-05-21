@@ -23,6 +23,7 @@ My LeetCode problem-solving journey — tracking solutions and progress in DSA.
 | [1512-number-of-good-pairs](https://github.com/madhavzanwar/leetcode-solutions/tree/master/1512-number-of-good-pairs) |
 | [1688-count-of-matches-in-tournament](https://github.com/madhavzanwar/leetcode-solutions/tree/master/1688-count-of-matches-in-tournament) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/madhavzanwar/leetcode-solutions/tree/master/1863-sum-of-all-subset-xor-totals) |
+| [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/madhavzanwar/leetcode-solutions/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2235-add-two-integers](https://github.com/madhavzanwar/leetcode-solutions/tree/master/2235-add-two-integers) |
 | [2396-strictly-palindromic-number](https://github.com/madhavzanwar/leetcode-solutions/tree/master/2396-strictly-palindromic-number) |
 | [2413-smallest-even-multiple](https://github.com/madhavzanwar/leetcode-solutions/tree/master/2413-smallest-even-multiple) |
@@ -146,6 +147,7 @@ My LeetCode problem-solving journey — tracking solutions and progress in DSA.
 | [0628-maximum-product-of-three-numbers](https://github.com/madhavzanwar/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/madhavzanwar/leetcode-solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/madhavzanwar/leetcode-solutions/tree/master/1838-frequency-of-the-most-frequent-element) |
+| [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/madhavzanwar/leetcode-solutions/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2475-number-of-unequal-triplets-in-array](https://github.com/madhavzanwar/leetcode-solutions/tree/master/2475-number-of-unequal-triplets-in-array) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/madhavzanwar/leetcode-solutions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3467-transform-array-by-parity](https://github.com/madhavzanwar/leetcode-solutions/tree/master/3467-transform-array-by-parity) |
@@ -154,6 +156,7 @@ My LeetCode problem-solving journey — tracking solutions and progress in DSA.
 | ------- |
 | [1323-maximum-69-number](https://github.com/madhavzanwar/leetcode-solutions/tree/master/1323-maximum-69-number) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/madhavzanwar/leetcode-solutions/tree/master/1838-frequency-of-the-most-frequent-element) |
+| [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/madhavzanwar/leetcode-solutions/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 ## Bit Manipulation
 |  |
 | ------- |
