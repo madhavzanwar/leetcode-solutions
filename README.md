@@ -227,6 +227,7 @@ My LeetCode problem-solving journey — tracking solutions and progress in DSA.
 ## Database
 |  |
 | ------- |
+| [0175-combine-two-tables](https://github.com/madhavzanwar/leetcode-solutions/tree/master/0175-combine-two-tables) |
 | [0627-swap-sex-of-employees](https://github.com/madhavzanwar/leetcode-solutions/tree/master/0627-swap-sex-of-employees) |
 | [1068-product-sales-analysis-i](https://github.com/madhavzanwar/leetcode-solutions/tree/master/1068-product-sales-analysis-i) |
 | [1683-invalid-tweets](https://github.com/madhavzanwar/leetcode-solutions/tree/master/1683-invalid-tweets) |
