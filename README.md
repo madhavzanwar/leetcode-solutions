@@ -14,6 +14,7 @@ My LeetCode problem-solving journey — tracking solutions and progress in DSA.
 | [0050-powx-n](https://github.com/madhavzanwar/leetcode-solutions/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/madhavzanwar/leetcode-solutions/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/madhavzanwar/leetcode-solutions/tree/master/0067-add-binary) |
+| [0202-happy-number](https://github.com/madhavzanwar/leetcode-solutions/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/madhavzanwar/leetcode-solutions/tree/master/0231-power-of-two) |
 | [0412-fizz-buzz](https://github.com/madhavzanwar/leetcode-solutions/tree/master/0412-fizz-buzz) |
 | [0509-fibonacci-number](https://github.com/madhavzanwar/leetcode-solutions/tree/master/0509-fibonacci-number) |
@@ -130,6 +131,7 @@ My LeetCode problem-solving journey — tracking solutions and progress in DSA.
 | [0012-integer-to-roman](https://github.com/madhavzanwar/leetcode-solutions/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/madhavzanwar/leetcode-solutions/tree/master/0013-roman-to-integer) |
 | [0049-group-anagrams](https://github.com/madhavzanwar/leetcode-solutions/tree/master/0049-group-anagrams) |
+| [0202-happy-number](https://github.com/madhavzanwar/leetcode-solutions/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/madhavzanwar/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/madhavzanwar/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/madhavzanwar/leetcode-solutions/tree/master/0389-find-the-difference) |
@@ -209,6 +211,7 @@ My LeetCode problem-solving journey — tracking solutions and progress in DSA.
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/madhavzanwar/leetcode-solutions/tree/master/0125-valid-palindrome) |
+| [0202-happy-number](https://github.com/madhavzanwar/leetcode-solutions/tree/master/0202-happy-number) |
 | [2367-number-of-arithmetic-triplets](https://github.com/madhavzanwar/leetcode-solutions/tree/master/2367-number-of-arithmetic-triplets) |
 | [2396-strictly-palindromic-number](https://github.com/madhavzanwar/leetcode-solutions/tree/master/2396-strictly-palindromic-number) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/madhavzanwar/leetcode-solutions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
