@@ -16,6 +16,7 @@ My LeetCode problem-solving journey — tracking solutions and progress in DSA.
 | [0067-add-binary](https://github.com/madhavzanwar/leetcode-solutions/tree/master/0067-add-binary) |
 | [0202-happy-number](https://github.com/madhavzanwar/leetcode-solutions/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/madhavzanwar/leetcode-solutions/tree/master/0231-power-of-two) |
+| [0263-ugly-number](https://github.com/madhavzanwar/leetcode-solutions/tree/master/0263-ugly-number) |
 | [0412-fizz-buzz](https://github.com/madhavzanwar/leetcode-solutions/tree/master/0412-fizz-buzz) |
 | [0509-fibonacci-number](https://github.com/madhavzanwar/leetcode-solutions/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/madhavzanwar/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
