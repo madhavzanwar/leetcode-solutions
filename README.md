@@ -245,6 +245,7 @@ My LeetCode problem-solving journey — tracking solutions and progress in DSA.
 | [0175-combine-two-tables](https://github.com/madhavzanwar/leetcode-solutions/tree/master/0175-combine-two-tables) |
 | [0627-swap-sex-of-employees](https://github.com/madhavzanwar/leetcode-solutions/tree/master/0627-swap-sex-of-employees) |
 | [1068-product-sales-analysis-i](https://github.com/madhavzanwar/leetcode-solutions/tree/master/1068-product-sales-analysis-i) |
+| [1393-capital-gainloss](https://github.com/madhavzanwar/leetcode-solutions/tree/master/1393-capital-gainloss) |
 | [1683-invalid-tweets](https://github.com/madhavzanwar/leetcode-solutions/tree/master/1683-invalid-tweets) |
 | [1693-daily-leads-and-partners](https://github.com/madhavzanwar/leetcode-solutions/tree/master/1693-daily-leads-and-partners) |
 | [1741-find-total-time-spent-by-each-employee](https://github.com/madhavzanwar/leetcode-solutions/tree/master/1741-find-total-time-spent-by-each-employee) |
