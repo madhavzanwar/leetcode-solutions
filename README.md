@@ -250,6 +250,7 @@ My LeetCode problem-solving journey — tracking solutions and progress in DSA.
 | [1068-product-sales-analysis-i](https://github.com/madhavzanwar/leetcode-solutions/tree/master/1068-product-sales-analysis-i) |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/madhavzanwar/leetcode-solutions/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
 | [1393-capital-gainloss](https://github.com/madhavzanwar/leetcode-solutions/tree/master/1393-capital-gainloss) |
+| [1587-bank-account-summary-ii](https://github.com/madhavzanwar/leetcode-solutions/tree/master/1587-bank-account-summary-ii) |
 | [1683-invalid-tweets](https://github.com/madhavzanwar/leetcode-solutions/tree/master/1683-invalid-tweets) |
 | [1693-daily-leads-and-partners](https://github.com/madhavzanwar/leetcode-solutions/tree/master/1693-daily-leads-and-partners) |
 | [1741-find-total-time-spent-by-each-employee](https://github.com/madhavzanwar/leetcode-solutions/tree/master/1741-find-total-time-spent-by-each-employee) |
