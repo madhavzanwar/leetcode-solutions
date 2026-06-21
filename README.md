@@ -95,6 +95,7 @@ My LeetCode problem-solving journey — tracking solutions and progress in DSA.
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/madhavzanwar/leetcode-solutions/tree/master/0001-two-sum) |
+| [0035-search-insert-position](https://github.com/madhavzanwar/leetcode-solutions/tree/master/0035-search-insert-position) |
 | [0049-group-anagrams](https://github.com/madhavzanwar/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0066-plus-one](https://github.com/madhavzanwar/leetcode-solutions/tree/master/0066-plus-one) |
 | [0136-single-number](https://github.com/madhavzanwar/leetcode-solutions/tree/master/0136-single-number) |
@@ -246,6 +247,7 @@ My LeetCode problem-solving journey — tracking solutions and progress in DSA.
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/madhavzanwar/leetcode-solutions/tree/master/0035-search-insert-position) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/madhavzanwar/leetcode-solutions/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/madhavzanwar/leetcode-solutions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Prefix Sum
