@@ -101,6 +101,7 @@ My LeetCode problem-solving journey — tracking solutions and progress in DSA.
 | [0066-plus-one](https://github.com/madhavzanwar/leetcode-solutions/tree/master/0066-plus-one) |
 | [0136-single-number](https://github.com/madhavzanwar/leetcode-solutions/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/madhavzanwar/leetcode-solutions/tree/master/0137-single-number-ii) |
+| [0169-majority-element](https://github.com/madhavzanwar/leetcode-solutions/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/madhavzanwar/leetcode-solutions/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/madhavzanwar/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/madhavzanwar/leetcode-solutions/tree/master/0283-move-zeroes) |
@@ -148,6 +149,7 @@ My LeetCode problem-solving journey — tracking solutions and progress in DSA.
 | [0012-integer-to-roman](https://github.com/madhavzanwar/leetcode-solutions/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/madhavzanwar/leetcode-solutions/tree/master/0013-roman-to-integer) |
 | [0049-group-anagrams](https://github.com/madhavzanwar/leetcode-solutions/tree/master/0049-group-anagrams) |
+| [0169-majority-element](https://github.com/madhavzanwar/leetcode-solutions/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/madhavzanwar/leetcode-solutions/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/madhavzanwar/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/madhavzanwar/leetcode-solutions/tree/master/0242-valid-anagram) |
@@ -170,6 +172,7 @@ My LeetCode problem-solving journey — tracking solutions and progress in DSA.
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/madhavzanwar/leetcode-solutions/tree/master/0049-group-anagrams) |
+| [0169-majority-element](https://github.com/madhavzanwar/leetcode-solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/madhavzanwar/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/madhavzanwar/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/madhavzanwar/leetcode-solutions/tree/master/0389-find-the-difference) |
@@ -222,6 +225,7 @@ My LeetCode problem-solving journey — tracking solutions and progress in DSA.
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/madhavzanwar/leetcode-solutions/tree/master/0169-majority-element) |
 | [1512-number-of-good-pairs](https://github.com/madhavzanwar/leetcode-solutions/tree/master/1512-number-of-good-pairs) |
 | [1603-design-parking-system](https://github.com/madhavzanwar/leetcode-solutions/tree/master/1603-design-parking-system) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/madhavzanwar/leetcode-solutions/tree/master/1684-count-the-number-of-consistent-strings) |
@@ -321,4 +325,8 @@ My LeetCode problem-solving journey — tracking solutions and progress in DSA.
 |  |
 | ------- |
 | [1021-remove-outermost-parentheses](https://github.com/madhavzanwar/leetcode-solutions/tree/master/1021-remove-outermost-parentheses) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/madhavzanwar/leetcode-solutions/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
