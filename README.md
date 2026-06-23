@@ -57,6 +57,7 @@ My LeetCode problem-solving journey — tracking solutions and progress in DSA.
 | [0067-add-binary](https://github.com/madhavzanwar/leetcode-solutions/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/madhavzanwar/leetcode-solutions/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/madhavzanwar/leetcode-solutions/tree/master/0242-valid-anagram) |
+| [0290-word-pattern](https://github.com/madhavzanwar/leetcode-solutions/tree/master/0290-word-pattern) |
 | [0344-reverse-string](https://github.com/madhavzanwar/leetcode-solutions/tree/master/0344-reverse-string) |
 | [0389-find-the-difference](https://github.com/madhavzanwar/leetcode-solutions/tree/master/0389-find-the-difference) |
 | [0412-fizz-buzz](https://github.com/madhavzanwar/leetcode-solutions/tree/master/0412-fizz-buzz) |
@@ -155,6 +156,7 @@ My LeetCode problem-solving journey — tracking solutions and progress in DSA.
 | [0202-happy-number](https://github.com/madhavzanwar/leetcode-solutions/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/madhavzanwar/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/madhavzanwar/leetcode-solutions/tree/master/0242-valid-anagram) |
+| [0290-word-pattern](https://github.com/madhavzanwar/leetcode-solutions/tree/master/0290-word-pattern) |
 | [0389-find-the-difference](https://github.com/madhavzanwar/leetcode-solutions/tree/master/0389-find-the-difference) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/madhavzanwar/leetcode-solutions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0645-set-mismatch](https://github.com/madhavzanwar/leetcode-solutions/tree/master/0645-set-mismatch) |
