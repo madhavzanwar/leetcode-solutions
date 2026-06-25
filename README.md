@@ -104,6 +104,7 @@ My LeetCode problem-solving journey — tracking solutions and progress in DSA.
 | [0053-maximum-subarray](https://github.com/madhavzanwar/leetcode-solutions/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/madhavzanwar/leetcode-solutions/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/madhavzanwar/leetcode-solutions/tree/master/0075-sort-colors) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/madhavzanwar/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/madhavzanwar/leetcode-solutions/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/madhavzanwar/leetcode-solutions/tree/master/0137-single-number-ii) |
 | [0169-majority-element](https://github.com/madhavzanwar/leetcode-solutions/tree/master/0169-majority-element) |
@@ -312,6 +313,7 @@ My LeetCode problem-solving journey — tracking solutions and progress in DSA.
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/madhavzanwar/leetcode-solutions/tree/master/0053-maximum-subarray) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/madhavzanwar/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0509-fibonacci-number](https://github.com/madhavzanwar/leetcode-solutions/tree/master/0509-fibonacci-number) |
 ## Memoization
 |  |
