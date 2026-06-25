@@ -101,6 +101,7 @@ My LeetCode problem-solving journey — tracking solutions and progress in DSA.
 | [0026-remove-duplicates-from-sorted-array](https://github.com/madhavzanwar/leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0035-search-insert-position](https://github.com/madhavzanwar/leetcode-solutions/tree/master/0035-search-insert-position) |
 | [0049-group-anagrams](https://github.com/madhavzanwar/leetcode-solutions/tree/master/0049-group-anagrams) |
+| [0053-maximum-subarray](https://github.com/madhavzanwar/leetcode-solutions/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/madhavzanwar/leetcode-solutions/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/madhavzanwar/leetcode-solutions/tree/master/0075-sort-colors) |
 | [0136-single-number](https://github.com/madhavzanwar/leetcode-solutions/tree/master/0136-single-number) |
@@ -310,6 +311,7 @@ My LeetCode problem-solving journey — tracking solutions and progress in DSA.
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/madhavzanwar/leetcode-solutions/tree/master/0053-maximum-subarray) |
 | [0509-fibonacci-number](https://github.com/madhavzanwar/leetcode-solutions/tree/master/0509-fibonacci-number) |
 ## Memoization
 |  |
@@ -342,6 +344,7 @@ My LeetCode problem-solving journey — tracking solutions and progress in DSA.
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/madhavzanwar/leetcode-solutions/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/madhavzanwar/leetcode-solutions/tree/master/0169-majority-element) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/madhavzanwar/leetcode-solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Segment Tree
