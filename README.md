@@ -147,6 +147,7 @@ My LeetCode problem-solving journey — tracking solutions and progress in DSA.
 | [2798-number-of-employees-who-met-the-target](https://github.com/madhavzanwar/leetcode-solutions/tree/master/2798-number-of-employees-who-met-the-target) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/madhavzanwar/leetcode-solutions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [2942-find-words-containing-character](https://github.com/madhavzanwar/leetcode-solutions/tree/master/2942-find-words-containing-character) |
+| [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/madhavzanwar/leetcode-solutions/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3162-find-the-number-of-good-pairs-i](https://github.com/madhavzanwar/leetcode-solutions/tree/master/3162-find-the-number-of-good-pairs-i) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/madhavzanwar/leetcode-solutions/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/madhavzanwar/leetcode-solutions/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
@@ -183,6 +184,7 @@ My LeetCode problem-solving journey — tracking solutions and progress in DSA.
 | [1684-count-the-number-of-consistent-strings](https://github.com/madhavzanwar/leetcode-solutions/tree/master/1684-count-the-number-of-consistent-strings) |
 | [2367-number-of-arithmetic-triplets](https://github.com/madhavzanwar/leetcode-solutions/tree/master/2367-number-of-arithmetic-triplets) |
 | [2475-number-of-unequal-triplets-in-array](https://github.com/madhavzanwar/leetcode-solutions/tree/master/2475-number-of-unequal-triplets-in-array) |
+| [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/madhavzanwar/leetcode-solutions/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3146-permutation-difference-between-two-strings](https://github.com/madhavzanwar/leetcode-solutions/tree/master/3146-permutation-difference-between-two-strings) |
 | [3162-find-the-number-of-good-pairs-i](https://github.com/madhavzanwar/leetcode-solutions/tree/master/3162-find-the-number-of-good-pairs-i) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/madhavzanwar/leetcode-solutions/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
@@ -262,6 +264,7 @@ My LeetCode problem-solving journey — tracking solutions and progress in DSA.
 | [1534-count-good-triplets](https://github.com/madhavzanwar/leetcode-solutions/tree/master/1534-count-good-triplets) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/madhavzanwar/leetcode-solutions/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [2367-number-of-arithmetic-triplets](https://github.com/madhavzanwar/leetcode-solutions/tree/master/2367-number-of-arithmetic-triplets) |
+| [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/madhavzanwar/leetcode-solutions/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 ## Two Pointers
 |  |
 | ------- |
