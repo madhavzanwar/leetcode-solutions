@@ -120,6 +120,7 @@ My LeetCode problem-solving journey — tracking solutions and progress in DSA.
 | [0137-single-number-ii](https://github.com/madhavzanwar/leetcode-solutions/tree/master/0137-single-number-ii) |
 | [0169-majority-element](https://github.com/madhavzanwar/leetcode-solutions/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/madhavzanwar/leetcode-solutions/tree/master/0189-rotate-array) |
+| [0198-house-robber](https://github.com/madhavzanwar/leetcode-solutions/tree/master/0198-house-robber) |
 | [0217-contains-duplicate](https://github.com/madhavzanwar/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/madhavzanwar/leetcode-solutions/tree/master/0283-move-zeroes) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/madhavzanwar/leetcode-solutions/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -355,6 +356,7 @@ My LeetCode problem-solving journey — tracking solutions and progress in DSA.
 | [0053-maximum-subarray](https://github.com/madhavzanwar/leetcode-solutions/tree/master/0053-maximum-subarray) |
 | [0118-pascals-triangle](https://github.com/madhavzanwar/leetcode-solutions/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/madhavzanwar/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0198-house-robber](https://github.com/madhavzanwar/leetcode-solutions/tree/master/0198-house-robber) |
 | [0509-fibonacci-number](https://github.com/madhavzanwar/leetcode-solutions/tree/master/0509-fibonacci-number) |
 ## Memoization
 |  |
