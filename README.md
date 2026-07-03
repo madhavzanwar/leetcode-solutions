@@ -153,6 +153,7 @@ My LeetCode problem-solving journey — tracking solutions and progress in DSA.
 | [2149-rearrange-array-elements-by-sign](https://github.com/madhavzanwar/leetcode-solutions/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/madhavzanwar/leetcode-solutions/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2367-number-of-arithmetic-triplets](https://github.com/madhavzanwar/leetcode-solutions/tree/master/2367-number-of-arithmetic-triplets) |
+| [2433-find-the-original-array-of-prefix-xor](https://github.com/madhavzanwar/leetcode-solutions/tree/master/2433-find-the-original-array-of-prefix-xor) |
 | [2475-number-of-unequal-triplets-in-array](https://github.com/madhavzanwar/leetcode-solutions/tree/master/2475-number-of-unequal-triplets-in-array) |
 | [2553-separate-the-digits-in-an-array](https://github.com/madhavzanwar/leetcode-solutions/tree/master/2553-separate-the-digits-in-an-array) |
 | [2574-left-and-right-sum-differences](https://github.com/madhavzanwar/leetcode-solutions/tree/master/2574-left-and-right-sum-differences) |
@@ -253,6 +254,7 @@ My LeetCode problem-solving journey — tracking solutions and progress in DSA.
 | [1684-count-the-number-of-consistent-strings](https://github.com/madhavzanwar/leetcode-solutions/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/madhavzanwar/leetcode-solutions/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/madhavzanwar/leetcode-solutions/tree/master/2220-minimum-bit-flips-to-convert-number) |
+| [2433-find-the-original-array-of-prefix-xor](https://github.com/madhavzanwar/leetcode-solutions/tree/master/2433-find-the-original-array-of-prefix-xor) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/madhavzanwar/leetcode-solutions/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 ## Number Theory
 |  |
