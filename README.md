@@ -104,6 +104,7 @@ My LeetCode problem-solving journey — tracking solutions and progress in DSA.
 | ------- |
 | [0001-two-sum](https://github.com/madhavzanwar/leetcode-solutions/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/madhavzanwar/leetcode-solutions/tree/master/0004-median-of-two-sorted-arrays) |
+| [0015-3sum](https://github.com/madhavzanwar/leetcode-solutions/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/madhavzanwar/leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/madhavzanwar/leetcode-solutions/tree/master/0031-next-permutation) |
 | [0035-search-insert-position](https://github.com/madhavzanwar/leetcode-solutions/tree/master/0035-search-insert-position) |
@@ -211,6 +212,7 @@ My LeetCode problem-solving journey — tracking solutions and progress in DSA.
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/madhavzanwar/leetcode-solutions/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/madhavzanwar/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/madhavzanwar/leetcode-solutions/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/madhavzanwar/leetcode-solutions/tree/master/0169-majority-element) |
@@ -290,6 +292,7 @@ My LeetCode problem-solving journey — tracking solutions and progress in DSA.
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/madhavzanwar/leetcode-solutions/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/madhavzanwar/leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/madhavzanwar/leetcode-solutions/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/madhavzanwar/leetcode-solutions/tree/master/0075-sort-colors) |
