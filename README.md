@@ -128,6 +128,7 @@ My LeetCode problem-solving journey — tracking solutions and progress in DSA.
 | [0217-contains-duplicate](https://github.com/madhavzanwar/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/madhavzanwar/leetcode-solutions/tree/master/0283-move-zeroes) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/madhavzanwar/leetcode-solutions/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0506-relative-ranks](https://github.com/madhavzanwar/leetcode-solutions/tree/master/0506-relative-ranks) |
 | [0560-subarray-sum-equals-k](https://github.com/madhavzanwar/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0628-maximum-product-of-three-numbers](https://github.com/madhavzanwar/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/madhavzanwar/leetcode-solutions/tree/master/0645-set-mismatch) |
@@ -227,6 +228,7 @@ My LeetCode problem-solving journey — tracking solutions and progress in DSA.
 | [0242-valid-anagram](https://github.com/madhavzanwar/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/madhavzanwar/leetcode-solutions/tree/master/0389-find-the-difference) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/madhavzanwar/leetcode-solutions/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0506-relative-ranks](https://github.com/madhavzanwar/leetcode-solutions/tree/master/0506-relative-ranks) |
 | [0628-maximum-product-of-three-numbers](https://github.com/madhavzanwar/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/madhavzanwar/leetcode-solutions/tree/master/0645-set-mismatch) |
 | [1288-remove-covered-intervals](https://github.com/madhavzanwar/leetcode-solutions/tree/master/1288-remove-covered-intervals) |
@@ -401,6 +403,7 @@ My LeetCode problem-solving journey — tracking solutions and progress in DSA.
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0506-relative-ranks](https://github.com/madhavzanwar/leetcode-solutions/tree/master/0506-relative-ranks) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/madhavzanwar/leetcode-solutions/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/madhavzanwar/leetcode-solutions/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/madhavzanwar/leetcode-solutions/tree/master/3286-find-a-safe-walk-through-a-grid) |
