@@ -187,6 +187,7 @@ My LeetCode problem-solving journey — tracking solutions and progress in DSA.
 | [3467-transform-array-by-parity](https://github.com/madhavzanwar/leetcode-solutions/tree/master/3467-transform-array-by-parity) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/madhavzanwar/leetcode-solutions/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/madhavzanwar/leetcode-solutions/tree/master/3532-path-existence-queries-in-a-graph-i) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/madhavzanwar/leetcode-solutions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/madhavzanwar/leetcode-solutions/tree/master/3620-network-recovery-pathways) |
 | [3668-restore-finishing-order](https://github.com/madhavzanwar/leetcode-solutions/tree/master/3668-restore-finishing-order) |
 | [3701-compute-alternating-sum](https://github.com/madhavzanwar/leetcode-solutions/tree/master/3701-compute-alternating-sum) |
@@ -253,6 +254,7 @@ My LeetCode problem-solving journey — tracking solutions and progress in DSA.
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/madhavzanwar/leetcode-solutions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [2974-minimum-number-game](https://github.com/madhavzanwar/leetcode-solutions/tree/master/2974-minimum-number-game) |
 | [3467-transform-array-by-parity](https://github.com/madhavzanwar/leetcode-solutions/tree/master/3467-transform-array-by-parity) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/madhavzanwar/leetcode-solutions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Greedy
 |  |
 | ------- |
@@ -261,6 +263,7 @@ My LeetCode problem-solving journey — tracking solutions and progress in DSA.
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/madhavzanwar/leetcode-solutions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/madhavzanwar/leetcode-solutions/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/madhavzanwar/leetcode-solutions/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/madhavzanwar/leetcode-solutions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -277,6 +280,7 @@ My LeetCode problem-solving journey — tracking solutions and progress in DSA.
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/madhavzanwar/leetcode-solutions/tree/master/2220-minimum-bit-flips-to-convert-number) |
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/madhavzanwar/leetcode-solutions/tree/master/2433-find-the-original-array-of-prefix-xor) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/madhavzanwar/leetcode-solutions/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/madhavzanwar/leetcode-solutions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Number Theory
 |  |
 | ------- |
@@ -331,6 +335,7 @@ My LeetCode problem-solving journey — tracking solutions and progress in DSA.
 | [2367-number-of-arithmetic-triplets](https://github.com/madhavzanwar/leetcode-solutions/tree/master/2367-number-of-arithmetic-triplets) |
 | [2396-strictly-palindromic-number](https://github.com/madhavzanwar/leetcode-solutions/tree/master/2396-strictly-palindromic-number) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/madhavzanwar/leetcode-solutions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/madhavzanwar/leetcode-solutions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3794-reverse-string-prefix](https://github.com/madhavzanwar/leetcode-solutions/tree/master/3794-reverse-string-prefix) |
 ## Binary Search
 |  |
@@ -341,6 +346,7 @@ My LeetCode problem-solving journey — tracking solutions and progress in DSA.
 | [2812-find-the-safest-path-in-a-grid](https://github.com/madhavzanwar/leetcode-solutions/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/madhavzanwar/leetcode-solutions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/madhavzanwar/leetcode-solutions/tree/master/3532-path-existence-queries-in-a-graph-i) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/madhavzanwar/leetcode-solutions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/madhavzanwar/leetcode-solutions/tree/master/3620-network-recovery-pathways) |
 ## Prefix Sum
 |  |
@@ -395,6 +401,7 @@ My LeetCode problem-solving journey — tracking solutions and progress in DSA.
 | [0198-house-robber](https://github.com/madhavzanwar/leetcode-solutions/tree/master/0198-house-robber) |
 | [0509-fibonacci-number](https://github.com/madhavzanwar/leetcode-solutions/tree/master/0509-fibonacci-number) |
 | [1301-number-of-paths-with-max-score](https://github.com/madhavzanwar/leetcode-solutions/tree/master/1301-number-of-paths-with-max-score) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/madhavzanwar/leetcode-solutions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/madhavzanwar/leetcode-solutions/tree/master/3620-network-recovery-pathways) |
 ## Memoization
 |  |
@@ -463,6 +470,7 @@ My LeetCode problem-solving journey — tracking solutions and progress in DSA.
 | ------- |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/madhavzanwar/leetcode-solutions/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/madhavzanwar/leetcode-solutions/tree/master/3532-path-existence-queries-in-a-graph-i) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/madhavzanwar/leetcode-solutions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/madhavzanwar/leetcode-solutions/tree/master/3620-network-recovery-pathways) |
 ## Shortest Path
 |  |
