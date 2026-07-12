@@ -139,6 +139,7 @@ My LeetCode problem-solving journey — tracking solutions and progress in DSA.
 | [0645-set-mismatch](https://github.com/madhavzanwar/leetcode-solutions/tree/master/0645-set-mismatch) |
 | [1288-remove-covered-intervals](https://github.com/madhavzanwar/leetcode-solutions/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/madhavzanwar/leetcode-solutions/tree/master/1301-number-of-paths-with-max-score) |
+| [1331-rank-transform-of-an-array](https://github.com/madhavzanwar/leetcode-solutions/tree/master/1331-rank-transform-of-an-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/madhavzanwar/leetcode-solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1389-create-target-array-in-the-given-order](https://github.com/madhavzanwar/leetcode-solutions/tree/master/1389-create-target-array-in-the-given-order) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/madhavzanwar/leetcode-solutions/tree/master/1431-kids-with-the-greatest-number-of-candies) |
@@ -215,6 +216,7 @@ My LeetCode problem-solving journey — tracking solutions and progress in DSA.
 | [0645-set-mismatch](https://github.com/madhavzanwar/leetcode-solutions/tree/master/0645-set-mismatch) |
 | [0771-jewels-and-stones](https://github.com/madhavzanwar/leetcode-solutions/tree/master/0771-jewels-and-stones) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/madhavzanwar/leetcode-solutions/tree/master/1015-smallest-integer-divisible-by-k) |
+| [1331-rank-transform-of-an-array](https://github.com/madhavzanwar/leetcode-solutions/tree/master/1331-rank-transform-of-an-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/madhavzanwar/leetcode-solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1512-number-of-good-pairs](https://github.com/madhavzanwar/leetcode-solutions/tree/master/1512-number-of-good-pairs) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/madhavzanwar/leetcode-solutions/tree/master/1684-count-the-number-of-consistent-strings) |
@@ -245,6 +247,7 @@ My LeetCode problem-solving journey — tracking solutions and progress in DSA.
 | [0628-maximum-product-of-three-numbers](https://github.com/madhavzanwar/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/madhavzanwar/leetcode-solutions/tree/master/0645-set-mismatch) |
 | [1288-remove-covered-intervals](https://github.com/madhavzanwar/leetcode-solutions/tree/master/1288-remove-covered-intervals) |
+| [1331-rank-transform-of-an-array](https://github.com/madhavzanwar/leetcode-solutions/tree/master/1331-rank-transform-of-an-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/madhavzanwar/leetcode-solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/madhavzanwar/leetcode-solutions/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/madhavzanwar/leetcode-solutions/tree/master/1838-frequency-of-the-most-frequent-element) |
