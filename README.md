@@ -29,6 +29,7 @@ My LeetCode problem-solving journey — tracking solutions and progress in DSA.
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/madhavzanwar/leetcode-solutions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1512-number-of-good-pairs](https://github.com/madhavzanwar/leetcode-solutions/tree/master/1512-number-of-good-pairs) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/madhavzanwar/leetcode-solutions/tree/master/1523-count-odd-numbers-in-an-interval-range) |
+| [1561-maximum-number-of-coins-you-can-get](https://github.com/madhavzanwar/leetcode-solutions/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1688-count-of-matches-in-tournament](https://github.com/madhavzanwar/leetcode-solutions/tree/master/1688-count-of-matches-in-tournament) |
 | [1828-queries-on-number-of-points-inside-a-circle](https://github.com/madhavzanwar/leetcode-solutions/tree/master/1828-queries-on-number-of-points-inside-a-circle) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/madhavzanwar/leetcode-solutions/tree/master/1863-sum-of-all-subset-xor-totals) |
@@ -150,6 +151,7 @@ My LeetCode problem-solving journey — tracking solutions and progress in DSA.
 | [1512-number-of-good-pairs](https://github.com/madhavzanwar/leetcode-solutions/tree/master/1512-number-of-good-pairs) |
 | [1528-shuffle-string](https://github.com/madhavzanwar/leetcode-solutions/tree/master/1528-shuffle-string) |
 | [1534-count-good-triplets](https://github.com/madhavzanwar/leetcode-solutions/tree/master/1534-count-good-triplets) |
+| [1561-maximum-number-of-coins-you-can-get](https://github.com/madhavzanwar/leetcode-solutions/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/madhavzanwar/leetcode-solutions/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1672-richest-customer-wealth](https://github.com/madhavzanwar/leetcode-solutions/tree/master/1672-richest-customer-wealth) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/madhavzanwar/leetcode-solutions/tree/master/1684-count-the-number-of-consistent-strings) |
@@ -260,6 +262,7 @@ My LeetCode problem-solving journey — tracking solutions and progress in DSA.
 | [1331-rank-transform-of-an-array](https://github.com/madhavzanwar/leetcode-solutions/tree/master/1331-rank-transform-of-an-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/madhavzanwar/leetcode-solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/madhavzanwar/leetcode-solutions/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
+| [1561-maximum-number-of-coins-you-can-get](https://github.com/madhavzanwar/leetcode-solutions/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/madhavzanwar/leetcode-solutions/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/madhavzanwar/leetcode-solutions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1859-sorting-the-sentence](https://github.com/madhavzanwar/leetcode-solutions/tree/master/1859-sorting-the-sentence) |
@@ -275,6 +278,7 @@ My LeetCode problem-solving journey — tracking solutions and progress in DSA.
 |  |
 | ------- |
 | [1323-maximum-69-number](https://github.com/madhavzanwar/leetcode-solutions/tree/master/1323-maximum-69-number) |
+| [1561-maximum-number-of-coins-you-can-get](https://github.com/madhavzanwar/leetcode-solutions/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/madhavzanwar/leetcode-solutions/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/madhavzanwar/leetcode-solutions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/madhavzanwar/leetcode-solutions/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
@@ -510,4 +514,8 @@ My LeetCode problem-solving journey — tracking solutions and progress in DSA.
 |  |
 | ------- |
 | [2685-count-the-number-of-complete-components](https://github.com/madhavzanwar/leetcode-solutions/tree/master/2685-count-the-number-of-complete-components) |
+## Game Theory
+|  |
+| ------- |
+| [1561-maximum-number-of-coins-you-can-get](https://github.com/madhavzanwar/leetcode-solutions/tree/master/1561-maximum-number-of-coins-you-can-get) |
 <!---LeetCode Topics End-->
