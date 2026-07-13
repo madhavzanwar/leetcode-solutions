@@ -321,6 +321,7 @@ My LeetCode problem-solving journey — tracking solutions and progress in DSA.
 ## Enumeration
 |  |
 | ------- |
+| [1291-sequential-digits](https://github.com/madhavzanwar/leetcode-solutions/tree/master/1291-sequential-digits) |
 | [1534-count-good-triplets](https://github.com/madhavzanwar/leetcode-solutions/tree/master/1534-count-good-triplets) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/madhavzanwar/leetcode-solutions/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [2367-number-of-arithmetic-triplets](https://github.com/madhavzanwar/leetcode-solutions/tree/master/2367-number-of-arithmetic-triplets) |
