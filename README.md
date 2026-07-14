@@ -175,6 +175,7 @@ My LeetCode problem-solving journey — tracking solutions and progress in DSA.
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/madhavzanwar/leetcode-solutions/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/madhavzanwar/leetcode-solutions/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/madhavzanwar/leetcode-solutions/tree/master/2161-partition-array-according-to-given-pivot) |
+| [2176-count-equal-and-divisible-pairs-in-an-array](https://github.com/madhavzanwar/leetcode-solutions/tree/master/2176-count-equal-and-divisible-pairs-in-an-array) |
 | [2367-number-of-arithmetic-triplets](https://github.com/madhavzanwar/leetcode-solutions/tree/master/2367-number-of-arithmetic-triplets) |
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/madhavzanwar/leetcode-solutions/tree/master/2433-find-the-original-array-of-prefix-xor) |
 | [2475-number-of-unequal-triplets-in-array](https://github.com/madhavzanwar/leetcode-solutions/tree/master/2475-number-of-unequal-triplets-in-array) |
