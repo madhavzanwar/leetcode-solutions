@@ -46,6 +46,7 @@ My LeetCode problem-solving journey — tracking solutions and progress in DSA.
 | [3280-convert-date-to-binary](https://github.com/madhavzanwar/leetcode-solutions/tree/master/3280-convert-date-to-binary) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/madhavzanwar/leetcode-solutions/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/madhavzanwar/leetcode-solutions/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/madhavzanwar/leetcode-solutions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/madhavzanwar/leetcode-solutions/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3516-find-closest-person](https://github.com/madhavzanwar/leetcode-solutions/tree/master/3516-find-closest-person) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/madhavzanwar/leetcode-solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -196,6 +197,7 @@ My LeetCode problem-solving journey — tracking solutions and progress in DSA.
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/madhavzanwar/leetcode-solutions/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/madhavzanwar/leetcode-solutions/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/madhavzanwar/leetcode-solutions/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/madhavzanwar/leetcode-solutions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3427-sum-of-variable-length-subarrays](https://github.com/madhavzanwar/leetcode-solutions/tree/master/3427-sum-of-variable-length-subarrays) |
 | [3467-transform-array-by-parity](https://github.com/madhavzanwar/leetcode-solutions/tree/master/3467-transform-array-by-parity) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/madhavzanwar/leetcode-solutions/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
@@ -306,6 +308,7 @@ My LeetCode problem-solving journey — tracking solutions and progress in DSA.
 |  |
 | ------- |
 | [2413-smallest-even-multiple](https://github.com/madhavzanwar/leetcode-solutions/tree/master/2413-smallest-even-multiple) |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/madhavzanwar/leetcode-solutions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/madhavzanwar/leetcode-solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Recursion
 |  |
@@ -427,6 +430,7 @@ My LeetCode problem-solving journey — tracking solutions and progress in DSA.
 | [0198-house-robber](https://github.com/madhavzanwar/leetcode-solutions/tree/master/0198-house-robber) |
 | [0509-fibonacci-number](https://github.com/madhavzanwar/leetcode-solutions/tree/master/0509-fibonacci-number) |
 | [1301-number-of-paths-with-max-score](https://github.com/madhavzanwar/leetcode-solutions/tree/master/1301-number-of-paths-with-max-score) |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/madhavzanwar/leetcode-solutions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/madhavzanwar/leetcode-solutions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/madhavzanwar/leetcode-solutions/tree/master/3620-network-recovery-pathways) |
 ## Memoization
