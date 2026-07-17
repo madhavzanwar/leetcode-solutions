@@ -19,6 +19,7 @@ My LeetCode problem-solving journey — tracking solutions and progress in DSA.
 | [0202-happy-number](https://github.com/madhavzanwar/leetcode-solutions/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/madhavzanwar/leetcode-solutions/tree/master/0231-power-of-two) |
 | [0263-ugly-number](https://github.com/madhavzanwar/leetcode-solutions/tree/master/0263-ugly-number) |
+| [0268-missing-number](https://github.com/madhavzanwar/leetcode-solutions/tree/master/0268-missing-number) |
 | [0412-fizz-buzz](https://github.com/madhavzanwar/leetcode-solutions/tree/master/0412-fizz-buzz) |
 | [0509-fibonacci-number](https://github.com/madhavzanwar/leetcode-solutions/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/madhavzanwar/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
@@ -139,6 +140,7 @@ My LeetCode problem-solving journey — tracking solutions and progress in DSA.
 | [0189-rotate-array](https://github.com/madhavzanwar/leetcode-solutions/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/madhavzanwar/leetcode-solutions/tree/master/0198-house-robber) |
 | [0217-contains-duplicate](https://github.com/madhavzanwar/leetcode-solutions/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/madhavzanwar/leetcode-solutions/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/madhavzanwar/leetcode-solutions/tree/master/0283-move-zeroes) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/madhavzanwar/leetcode-solutions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0506-relative-ranks](https://github.com/madhavzanwar/leetcode-solutions/tree/master/0506-relative-ranks) |
@@ -231,6 +233,7 @@ My LeetCode problem-solving journey — tracking solutions and progress in DSA.
 | [0202-happy-number](https://github.com/madhavzanwar/leetcode-solutions/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/madhavzanwar/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/madhavzanwar/leetcode-solutions/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/madhavzanwar/leetcode-solutions/tree/master/0268-missing-number) |
 | [0290-word-pattern](https://github.com/madhavzanwar/leetcode-solutions/tree/master/0290-word-pattern) |
 | [0389-find-the-difference](https://github.com/madhavzanwar/leetcode-solutions/tree/master/0389-find-the-difference) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/madhavzanwar/leetcode-solutions/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -266,6 +269,7 @@ My LeetCode problem-solving journey — tracking solutions and progress in DSA.
 | [0169-majority-element](https://github.com/madhavzanwar/leetcode-solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/madhavzanwar/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/madhavzanwar/leetcode-solutions/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/madhavzanwar/leetcode-solutions/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/madhavzanwar/leetcode-solutions/tree/master/0389-find-the-difference) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/madhavzanwar/leetcode-solutions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0506-relative-ranks](https://github.com/madhavzanwar/leetcode-solutions/tree/master/0506-relative-ranks) |
@@ -307,6 +311,7 @@ My LeetCode problem-solving journey — tracking solutions and progress in DSA.
 | [0136-single-number](https://github.com/madhavzanwar/leetcode-solutions/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/madhavzanwar/leetcode-solutions/tree/master/0137-single-number-ii) |
 | [0231-power-of-two](https://github.com/madhavzanwar/leetcode-solutions/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/madhavzanwar/leetcode-solutions/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/madhavzanwar/leetcode-solutions/tree/master/0389-find-the-difference) |
 | [0645-set-mismatch](https://github.com/madhavzanwar/leetcode-solutions/tree/master/0645-set-mismatch) |
 | [0832-flipping-an-image](https://github.com/madhavzanwar/leetcode-solutions/tree/master/0832-flipping-an-image) |
@@ -390,6 +395,7 @@ My LeetCode problem-solving journey — tracking solutions and progress in DSA.
 | [0004-median-of-two-sorted-arrays](https://github.com/madhavzanwar/leetcode-solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/madhavzanwar/leetcode-solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/madhavzanwar/leetcode-solutions/tree/master/0035-search-insert-position) |
+| [0268-missing-number](https://github.com/madhavzanwar/leetcode-solutions/tree/master/0268-missing-number) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/madhavzanwar/leetcode-solutions/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/madhavzanwar/leetcode-solutions/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/madhavzanwar/leetcode-solutions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
