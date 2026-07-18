@@ -204,6 +204,7 @@ My LeetCode problem-solving journey — tracking solutions and progress in DSA.
 | [2974-minimum-number-game](https://github.com/madhavzanwar/leetcode-solutions/tree/master/2974-minimum-number-game) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/madhavzanwar/leetcode-solutions/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3065-minimum-operations-to-exceed-threshold-value-i](https://github.com/madhavzanwar/leetcode-solutions/tree/master/3065-minimum-operations-to-exceed-threshold-value-i) |
+| [3131-find-the-integer-added-to-array-i](https://github.com/madhavzanwar/leetcode-solutions/tree/master/3131-find-the-integer-added-to-array-i) |
 | [3162-find-the-number-of-good-pairs-i](https://github.com/madhavzanwar/leetcode-solutions/tree/master/3162-find-the-number-of-good-pairs-i) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/madhavzanwar/leetcode-solutions/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/madhavzanwar/leetcode-solutions/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
