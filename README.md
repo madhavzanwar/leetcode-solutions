@@ -105,6 +105,7 @@ My LeetCode problem-solving journey — tracking solutions and progress in DSA.
 | [0067-add-binary](https://github.com/madhavzanwar/leetcode-solutions/tree/master/0067-add-binary) |
 | [0412-fizz-buzz](https://github.com/madhavzanwar/leetcode-solutions/tree/master/0412-fizz-buzz) |
 | [0832-flipping-an-image](https://github.com/madhavzanwar/leetcode-solutions/tree/master/0832-flipping-an-image) |
+| [1260-shift-2d-grid](https://github.com/madhavzanwar/leetcode-solutions/tree/master/1260-shift-2d-grid) |
 | [1389-create-target-array-in-the-given-order](https://github.com/madhavzanwar/leetcode-solutions/tree/master/1389-create-target-array-in-the-given-order) |
 | [1603-design-parking-system](https://github.com/madhavzanwar/leetcode-solutions/tree/master/1603-design-parking-system) |
 | [1688-count-of-matches-in-tournament](https://github.com/madhavzanwar/leetcode-solutions/tree/master/1688-count-of-matches-in-tournament) |
@@ -154,6 +155,7 @@ My LeetCode problem-solving journey — tracking solutions and progress in DSA.
 | [0628-maximum-product-of-three-numbers](https://github.com/madhavzanwar/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/madhavzanwar/leetcode-solutions/tree/master/0645-set-mismatch) |
 | [0832-flipping-an-image](https://github.com/madhavzanwar/leetcode-solutions/tree/master/0832-flipping-an-image) |
+| [1260-shift-2d-grid](https://github.com/madhavzanwar/leetcode-solutions/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/madhavzanwar/leetcode-solutions/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/madhavzanwar/leetcode-solutions/tree/master/1301-number-of-paths-with-max-score) |
 | [1331-rank-transform-of-an-array](https://github.com/madhavzanwar/leetcode-solutions/tree/master/1331-rank-transform-of-an-array) |
@@ -360,6 +362,7 @@ My LeetCode problem-solving journey — tracking solutions and progress in DSA.
 | [0054-spiral-matrix](https://github.com/madhavzanwar/leetcode-solutions/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/madhavzanwar/leetcode-solutions/tree/master/0073-set-matrix-zeroes) |
 | [0832-flipping-an-image](https://github.com/madhavzanwar/leetcode-solutions/tree/master/0832-flipping-an-image) |
+| [1260-shift-2d-grid](https://github.com/madhavzanwar/leetcode-solutions/tree/master/1260-shift-2d-grid) |
 | [1301-number-of-paths-with-max-score](https://github.com/madhavzanwar/leetcode-solutions/tree/master/1301-number-of-paths-with-max-score) |
 | [1572-matrix-diagonal-sum](https://github.com/madhavzanwar/leetcode-solutions/tree/master/1572-matrix-diagonal-sum) |
 | [1672-richest-customer-wealth](https://github.com/madhavzanwar/leetcode-solutions/tree/master/1672-richest-customer-wealth) |
