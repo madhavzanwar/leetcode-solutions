@@ -624,4 +624,8 @@ My LeetCode problem-solving journey — tracking solutions and progress in DSA.
 | ------- |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/madhavzanwar/leetcode-solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/madhavzanwar/leetcode-solutions/tree/master/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
+## Linked List
+|  |
+| ------- |
+| [0237-delete-node-in-a-linked-list](https://github.com/madhavzanwar/leetcode-solutions/tree/master/0237-delete-node-in-a-linked-list) |
 <!---LeetCode Topics End-->
