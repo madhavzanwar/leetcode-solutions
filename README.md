@@ -222,6 +222,7 @@ My LeetCode problem-solving journey — tracking solutions and progress in DSA.
 | [2553-separate-the-digits-in-an-array](https://github.com/madhavzanwar/leetcode-solutions/tree/master/2553-separate-the-digits-in-an-array) |
 | [2574-left-and-right-sum-differences](https://github.com/madhavzanwar/leetcode-solutions/tree/master/2574-left-and-right-sum-differences) |
 | [2610-convert-an-array-into-a-2d-array-with-conditions](https://github.com/madhavzanwar/leetcode-solutions/tree/master/2610-convert-an-array-into-a-2d-array-with-conditions) |
+| [2656-maximum-sum-with-exactly-k-elements](https://github.com/madhavzanwar/leetcode-solutions/tree/master/2656-maximum-sum-with-exactly-k-elements) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/madhavzanwar/leetcode-solutions/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/madhavzanwar/leetcode-solutions/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/madhavzanwar/leetcode-solutions/tree/master/2798-number-of-employees-who-met-the-target) |
@@ -353,6 +354,7 @@ My LeetCode problem-solving journey — tracking solutions and progress in DSA.
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/madhavzanwar/leetcode-solutions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/madhavzanwar/leetcode-solutions/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/madhavzanwar/leetcode-solutions/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
+| [2656-maximum-sum-with-exactly-k-elements](https://github.com/madhavzanwar/leetcode-solutions/tree/master/2656-maximum-sum-with-exactly-k-elements) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/madhavzanwar/leetcode-solutions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Bit Manipulation
 |  |
