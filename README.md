@@ -216,6 +216,7 @@ My LeetCode problem-solving journey — tracking solutions and progress in DSA.
 | [2161-partition-array-according-to-given-pivot](https://github.com/madhavzanwar/leetcode-solutions/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2176-count-equal-and-divisible-pairs-in-an-array](https://github.com/madhavzanwar/leetcode-solutions/tree/master/2176-count-equal-and-divisible-pairs-in-an-array) |
 | [2185-counting-words-with-a-given-prefix](https://github.com/madhavzanwar/leetcode-solutions/tree/master/2185-counting-words-with-a-given-prefix) |
+| [2206-divide-array-into-equal-pairs](https://github.com/madhavzanwar/leetcode-solutions/tree/master/2206-divide-array-into-equal-pairs) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/madhavzanwar/leetcode-solutions/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2367-number-of-arithmetic-triplets](https://github.com/madhavzanwar/leetcode-solutions/tree/master/2367-number-of-arithmetic-triplets) |
 | [2418-sort-the-people](https://github.com/madhavzanwar/leetcode-solutions/tree/master/2418-sort-the-people) |
@@ -292,6 +293,7 @@ My LeetCode problem-solving journey — tracking solutions and progress in DSA.
 | [1512-number-of-good-pairs](https://github.com/madhavzanwar/leetcode-solutions/tree/master/1512-number-of-good-pairs) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/madhavzanwar/leetcode-solutions/tree/master/1684-count-the-number-of-consistent-strings) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/madhavzanwar/leetcode-solutions/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
+| [2206-divide-array-into-equal-pairs](https://github.com/madhavzanwar/leetcode-solutions/tree/master/2206-divide-array-into-equal-pairs) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/madhavzanwar/leetcode-solutions/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2367-number-of-arithmetic-triplets](https://github.com/madhavzanwar/leetcode-solutions/tree/master/2367-number-of-arithmetic-triplets) |
 | [2418-sort-the-people](https://github.com/madhavzanwar/leetcode-solutions/tree/master/2418-sort-the-people) |
@@ -376,6 +378,7 @@ My LeetCode problem-solving journey — tracking solutions and progress in DSA.
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/madhavzanwar/leetcode-solutions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/madhavzanwar/leetcode-solutions/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/madhavzanwar/leetcode-solutions/tree/master/1863-sum-of-all-subset-xor-totals) |
+| [2206-divide-array-into-equal-pairs](https://github.com/madhavzanwar/leetcode-solutions/tree/master/2206-divide-array-into-equal-pairs) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/madhavzanwar/leetcode-solutions/tree/master/2220-minimum-bit-flips-to-convert-number) |
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/madhavzanwar/leetcode-solutions/tree/master/2433-find-the-original-array-of-prefix-xor) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/madhavzanwar/leetcode-solutions/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
@@ -420,6 +423,7 @@ My LeetCode problem-solving journey — tracking solutions and progress in DSA.
 | [1603-design-parking-system](https://github.com/madhavzanwar/leetcode-solutions/tree/master/1603-design-parking-system) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/madhavzanwar/leetcode-solutions/tree/master/1684-count-the-number-of-consistent-strings) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/madhavzanwar/leetcode-solutions/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
+| [2206-divide-array-into-equal-pairs](https://github.com/madhavzanwar/leetcode-solutions/tree/master/2206-divide-array-into-equal-pairs) |
 | [3312-sorted-gcd-pair-queries](https://github.com/madhavzanwar/leetcode-solutions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3467-transform-array-by-parity](https://github.com/madhavzanwar/leetcode-solutions/tree/master/3467-transform-array-by-parity) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/madhavzanwar/leetcode-solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
