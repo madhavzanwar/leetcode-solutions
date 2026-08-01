@@ -22,6 +22,7 @@ My LeetCode problem-solving journey — tracking solutions and progress in DSA.
 | [0263-ugly-number](https://github.com/madhavzanwar/leetcode-solutions/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/madhavzanwar/leetcode-solutions/tree/master/0268-missing-number) |
 | [0412-fizz-buzz](https://github.com/madhavzanwar/leetcode-solutions/tree/master/0412-fizz-buzz) |
+| [0486-predict-the-winner](https://github.com/madhavzanwar/leetcode-solutions/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/madhavzanwar/leetcode-solutions/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/madhavzanwar/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0728-self-dividing-numbers](https://github.com/madhavzanwar/leetcode-solutions/tree/master/0728-self-dividing-numbers) |
@@ -173,6 +174,7 @@ My LeetCode problem-solving journey — tracking solutions and progress in DSA.
 | [0283-move-zeroes](https://github.com/madhavzanwar/leetcode-solutions/tree/master/0283-move-zeroes) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/madhavzanwar/leetcode-solutions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/madhavzanwar/leetcode-solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0486-predict-the-winner](https://github.com/madhavzanwar/leetcode-solutions/tree/master/0486-predict-the-winner) |
 | [0506-relative-ranks](https://github.com/madhavzanwar/leetcode-solutions/tree/master/0506-relative-ranks) |
 | [0560-subarray-sum-equals-k](https://github.com/madhavzanwar/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0628-maximum-product-of-three-numbers](https://github.com/madhavzanwar/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
@@ -422,6 +424,7 @@ My LeetCode problem-solving journey — tracking solutions and progress in DSA.
 | [0050-powx-n](https://github.com/madhavzanwar/leetcode-solutions/tree/master/0050-powx-n) |
 | [0060-permutation-sequence](https://github.com/madhavzanwar/leetcode-solutions/tree/master/0060-permutation-sequence) |
 | [0231-power-of-two](https://github.com/madhavzanwar/leetcode-solutions/tree/master/0231-power-of-two) |
+| [0486-predict-the-winner](https://github.com/madhavzanwar/leetcode-solutions/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/madhavzanwar/leetcode-solutions/tree/master/0509-fibonacci-number) |
 ## Matrix
 |  |
@@ -558,6 +561,7 @@ My LeetCode problem-solving journey — tracking solutions and progress in DSA.
 | [0118-pascals-triangle](https://github.com/madhavzanwar/leetcode-solutions/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/madhavzanwar/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/madhavzanwar/leetcode-solutions/tree/master/0198-house-robber) |
+| [0486-predict-the-winner](https://github.com/madhavzanwar/leetcode-solutions/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/madhavzanwar/leetcode-solutions/tree/master/0509-fibonacci-number) |
 | [1301-number-of-paths-with-max-score](https://github.com/madhavzanwar/leetcode-solutions/tree/master/1301-number-of-paths-with-max-score) |
 | [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/madhavzanwar/leetcode-solutions/tree/master/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
@@ -661,6 +665,7 @@ My LeetCode problem-solving journey — tracking solutions and progress in DSA.
 ## Game Theory
 |  |
 | ------- |
+| [0486-predict-the-winner](https://github.com/madhavzanwar/leetcode-solutions/tree/master/0486-predict-the-winner) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/madhavzanwar/leetcode-solutions/tree/master/1561-maximum-number-of-coins-you-can-get) |
 ## Monotonic Stack
 |  |
