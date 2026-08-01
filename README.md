@@ -88,6 +88,7 @@ My LeetCode problem-solving journey — tracking solutions and progress in DSA.
 | [1021-remove-outermost-parentheses](https://github.com/madhavzanwar/leetcode-solutions/tree/master/1021-remove-outermost-parentheses) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/madhavzanwar/leetcode-solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1108-defanging-an-ip-address](https://github.com/madhavzanwar/leetcode-solutions/tree/master/1108-defanging-an-ip-address) |
+| [1436-destination-city](https://github.com/madhavzanwar/leetcode-solutions/tree/master/1436-destination-city) |
 | [1528-shuffle-string](https://github.com/madhavzanwar/leetcode-solutions/tree/master/1528-shuffle-string) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/madhavzanwar/leetcode-solutions/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1678-goal-parser-interpretation](https://github.com/madhavzanwar/leetcode-solutions/tree/master/1678-goal-parser-interpretation) |
@@ -189,6 +190,7 @@ My LeetCode problem-solving journey — tracking solutions and progress in DSA.
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/madhavzanwar/leetcode-solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1389-create-target-array-in-the-given-order](https://github.com/madhavzanwar/leetcode-solutions/tree/master/1389-create-target-array-in-the-given-order) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/madhavzanwar/leetcode-solutions/tree/master/1431-kids-with-the-greatest-number-of-candies) |
+| [1436-destination-city](https://github.com/madhavzanwar/leetcode-solutions/tree/master/1436-destination-city) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/madhavzanwar/leetcode-solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1470-shuffle-the-array](https://github.com/madhavzanwar/leetcode-solutions/tree/master/1470-shuffle-the-array) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/madhavzanwar/leetcode-solutions/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
@@ -305,6 +307,7 @@ My LeetCode problem-solving journey — tracking solutions and progress in DSA.
 | [1015-smallest-integer-divisible-by-k](https://github.com/madhavzanwar/leetcode-solutions/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1331-rank-transform-of-an-array](https://github.com/madhavzanwar/leetcode-solutions/tree/master/1331-rank-transform-of-an-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/madhavzanwar/leetcode-solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1436-destination-city](https://github.com/madhavzanwar/leetcode-solutions/tree/master/1436-destination-city) |
 | [1512-number-of-good-pairs](https://github.com/madhavzanwar/leetcode-solutions/tree/master/1512-number-of-good-pairs) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/madhavzanwar/leetcode-solutions/tree/master/1684-count-the-number-of-consistent-strings) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/madhavzanwar/leetcode-solutions/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
