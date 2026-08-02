@@ -220,6 +220,7 @@ My LeetCode problem-solving journey — tracking solutions and progress in DSA.
 | [1838-frequency-of-the-most-frequent-element](https://github.com/madhavzanwar/leetcode-solutions/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/madhavzanwar/leetcode-solutions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/madhavzanwar/leetcode-solutions/tree/master/1863-sum-of-all-subset-xor-totals) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/madhavzanwar/leetcode-solutions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/madhavzanwar/leetcode-solutions/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [1920-build-array-from-permutation](https://github.com/madhavzanwar/leetcode-solutions/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/madhavzanwar/leetcode-solutions/tree/master/1929-concatenation-of-array) |
@@ -364,6 +365,7 @@ My LeetCode problem-solving journey — tracking solutions and progress in DSA.
 | [1838-frequency-of-the-most-frequent-element](https://github.com/madhavzanwar/leetcode-solutions/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/madhavzanwar/leetcode-solutions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1859-sorting-the-sentence](https://github.com/madhavzanwar/leetcode-solutions/tree/master/1859-sorting-the-sentence) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/madhavzanwar/leetcode-solutions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/madhavzanwar/leetcode-solutions/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/madhavzanwar/leetcode-solutions/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/madhavzanwar/leetcode-solutions/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
@@ -390,6 +392,7 @@ My LeetCode problem-solving journey — tracking solutions and progress in DSA.
 | [1827-minimum-operations-to-make-the-array-increasing](https://github.com/madhavzanwar/leetcode-solutions/tree/master/1827-minimum-operations-to-make-the-array-increasing) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/madhavzanwar/leetcode-solutions/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/madhavzanwar/leetcode-solutions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/madhavzanwar/leetcode-solutions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/madhavzanwar/leetcode-solutions/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/madhavzanwar/leetcode-solutions/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2656-maximum-sum-with-exactly-k-elements](https://github.com/madhavzanwar/leetcode-solutions/tree/master/2656-maximum-sum-with-exactly-k-elements) |
@@ -489,6 +492,7 @@ My LeetCode problem-solving journey — tracking solutions and progress in DSA.
 | [0283-move-zeroes](https://github.com/madhavzanwar/leetcode-solutions/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/madhavzanwar/leetcode-solutions/tree/master/0344-reverse-string) |
 | [0832-flipping-an-image](https://github.com/madhavzanwar/leetcode-solutions/tree/master/0832-flipping-an-image) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/madhavzanwar/leetcode-solutions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/madhavzanwar/leetcode-solutions/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/madhavzanwar/leetcode-solutions/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/madhavzanwar/leetcode-solutions/tree/master/2161-partition-array-according-to-given-pivot) |
