@@ -275,6 +275,7 @@ My LeetCode problem-solving journey — tracking solutions and progress in DSA.
 | [3427-sum-of-variable-length-subarrays](https://github.com/madhavzanwar/leetcode-solutions/tree/master/3427-sum-of-variable-length-subarrays) |
 | [3467-transform-array-by-parity](https://github.com/madhavzanwar/leetcode-solutions/tree/master/3467-transform-array-by-parity) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/madhavzanwar/leetcode-solutions/tree/master/3501-maximize-active-section-with-trade-ii) |
+| [3502-minimum-cost-to-reach-every-position](https://github.com/madhavzanwar/leetcode-solutions/tree/master/3502-minimum-cost-to-reach-every-position) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/madhavzanwar/leetcode-solutions/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/madhavzanwar/leetcode-solutions/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/madhavzanwar/leetcode-solutions/tree/master/3514-number-of-unique-xor-triplets-ii) |
