@@ -6,6 +6,7 @@ My LeetCode problem-solving journey — tracking solutions and progress in DSA.
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/madhavzanwar/leetcode-solutions/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/madhavzanwar/leetcode-solutions/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/madhavzanwar/leetcode-solutions/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/madhavzanwar/leetcode-solutions/tree/master/0012-integer-to-roman) |
@@ -457,6 +458,7 @@ My LeetCode problem-solving journey — tracking solutions and progress in DSA.
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/madhavzanwar/leetcode-solutions/tree/master/0002-add-two-numbers) |
 | [0050-powx-n](https://github.com/madhavzanwar/leetcode-solutions/tree/master/0050-powx-n) |
 | [0060-permutation-sequence](https://github.com/madhavzanwar/leetcode-solutions/tree/master/0060-permutation-sequence) |
 | [0231-power-of-two](https://github.com/madhavzanwar/leetcode-solutions/tree/master/0231-power-of-two) |
@@ -729,6 +731,7 @@ My LeetCode problem-solving journey — tracking solutions and progress in DSA.
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/madhavzanwar/leetcode-solutions/tree/master/0002-add-two-numbers) |
 | [0237-delete-node-in-a-linked-list](https://github.com/madhavzanwar/leetcode-solutions/tree/master/0237-delete-node-in-a-linked-list) |
 ## String Matching
 |  |
