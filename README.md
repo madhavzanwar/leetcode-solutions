@@ -29,6 +29,7 @@ My LeetCode problem-solving journey — tracking solutions and progress in DSA.
 | [0728-self-dividing-numbers](https://github.com/madhavzanwar/leetcode-solutions/tree/master/0728-self-dividing-numbers) |
 | [0877-stone-game](https://github.com/madhavzanwar/leetcode-solutions/tree/master/0877-stone-game) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/madhavzanwar/leetcode-solutions/tree/master/1015-smallest-integer-divisible-by-k) |
+| [1140-stone-game-ii](https://github.com/madhavzanwar/leetcode-solutions/tree/master/1140-stone-game-ii) |
 | [1266-minimum-time-visiting-all-points](https://github.com/madhavzanwar/leetcode-solutions/tree/master/1266-minimum-time-visiting-all-points) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/madhavzanwar/leetcode-solutions/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1323-maximum-69-number](https://github.com/madhavzanwar/leetcode-solutions/tree/master/1323-maximum-69-number) |
@@ -194,6 +195,7 @@ My LeetCode problem-solving journey — tracking solutions and progress in DSA.
 | [0832-flipping-an-image](https://github.com/madhavzanwar/leetcode-solutions/tree/master/0832-flipping-an-image) |
 | [0877-stone-game](https://github.com/madhavzanwar/leetcode-solutions/tree/master/0877-stone-game) |
 | [1122-relative-sort-array](https://github.com/madhavzanwar/leetcode-solutions/tree/master/1122-relative-sort-array) |
+| [1140-stone-game-ii](https://github.com/madhavzanwar/leetcode-solutions/tree/master/1140-stone-game-ii) |
 | [1260-shift-2d-grid](https://github.com/madhavzanwar/leetcode-solutions/tree/master/1260-shift-2d-grid) |
 | [1266-minimum-time-visiting-all-points](https://github.com/madhavzanwar/leetcode-solutions/tree/master/1266-minimum-time-visiting-all-points) |
 | [1288-remove-covered-intervals](https://github.com/madhavzanwar/leetcode-solutions/tree/master/1288-remove-covered-intervals) |
@@ -554,6 +556,7 @@ My LeetCode problem-solving journey — tracking solutions and progress in DSA.
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/madhavzanwar/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
+| [1140-stone-game-ii](https://github.com/madhavzanwar/leetcode-solutions/tree/master/1140-stone-game-ii) |
 | [1480-running-sum-of-1d-array](https://github.com/madhavzanwar/leetcode-solutions/tree/master/1480-running-sum-of-1d-array) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/madhavzanwar/leetcode-solutions/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1732-find-the-highest-altitude](https://github.com/madhavzanwar/leetcode-solutions/tree/master/1732-find-the-highest-altitude) |
@@ -615,6 +618,7 @@ My LeetCode problem-solving journey — tracking solutions and progress in DSA.
 | [0486-predict-the-winner](https://github.com/madhavzanwar/leetcode-solutions/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/madhavzanwar/leetcode-solutions/tree/master/0509-fibonacci-number) |
 | [0877-stone-game](https://github.com/madhavzanwar/leetcode-solutions/tree/master/0877-stone-game) |
+| [1140-stone-game-ii](https://github.com/madhavzanwar/leetcode-solutions/tree/master/1140-stone-game-ii) |
 | [1301-number-of-paths-with-max-score](https://github.com/madhavzanwar/leetcode-solutions/tree/master/1301-number-of-paths-with-max-score) |
 | [1406-stone-game-iii](https://github.com/madhavzanwar/leetcode-solutions/tree/master/1406-stone-game-iii) |
 | [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/madhavzanwar/leetcode-solutions/tree/master/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
@@ -724,6 +728,7 @@ My LeetCode problem-solving journey — tracking solutions and progress in DSA.
 | ------- |
 | [0486-predict-the-winner](https://github.com/madhavzanwar/leetcode-solutions/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/madhavzanwar/leetcode-solutions/tree/master/0877-stone-game) |
+| [1140-stone-game-ii](https://github.com/madhavzanwar/leetcode-solutions/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/madhavzanwar/leetcode-solutions/tree/master/1406-stone-game-iii) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/madhavzanwar/leetcode-solutions/tree/master/1561-maximum-number-of-coins-you-can-get) |
 ## Monotonic Stack
@@ -749,4 +754,12 @@ My LeetCode problem-solving journey — tracking solutions and progress in DSA.
 |  |
 | ------- |
 | [1122-relative-sort-array](https://github.com/madhavzanwar/leetcode-solutions/tree/master/1122-relative-sort-array) |
+## Minimax
+|  |
+| ------- |
+| [1140-stone-game-ii](https://github.com/madhavzanwar/leetcode-solutions/tree/master/1140-stone-game-ii) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [1140-stone-game-ii](https://github.com/madhavzanwar/leetcode-solutions/tree/master/1140-stone-game-ii) |
 <!---LeetCode Topics End-->
