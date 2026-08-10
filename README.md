@@ -524,6 +524,7 @@ My LeetCode problem-solving journey — tracking solutions and progress in DSA.
 | [0344-reverse-string](https://github.com/madhavzanwar/leetcode-solutions/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/madhavzanwar/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0832-flipping-an-image](https://github.com/madhavzanwar/leetcode-solutions/tree/master/0832-flipping-an-image) |
+| [0876-middle-of-the-linked-list](https://github.com/madhavzanwar/leetcode-solutions/tree/master/0876-middle-of-the-linked-list) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/madhavzanwar/leetcode-solutions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/madhavzanwar/leetcode-solutions/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/madhavzanwar/leetcode-solutions/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -744,6 +745,7 @@ My LeetCode problem-solving journey — tracking solutions and progress in DSA.
 | [0002-add-two-numbers](https://github.com/madhavzanwar/leetcode-solutions/tree/master/0002-add-two-numbers) |
 | [0206-reverse-linked-list](https://github.com/madhavzanwar/leetcode-solutions/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/madhavzanwar/leetcode-solutions/tree/master/0237-delete-node-in-a-linked-list) |
+| [0876-middle-of-the-linked-list](https://github.com/madhavzanwar/leetcode-solutions/tree/master/0876-middle-of-the-linked-list) |
 ## String Matching
 |  |
 | ------- |
