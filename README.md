@@ -515,6 +515,7 @@ My LeetCode problem-solving journey — tracking solutions and progress in DSA.
 |  |
 | ------- |
 | [0015-3sum](https://github.com/madhavzanwar/leetcode-solutions/tree/master/0015-3sum) |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/madhavzanwar/leetcode-solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/madhavzanwar/leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/madhavzanwar/leetcode-solutions/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/madhavzanwar/leetcode-solutions/tree/master/0075-sort-colors) |
@@ -746,6 +747,7 @@ My LeetCode problem-solving journey — tracking solutions and progress in DSA.
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/madhavzanwar/leetcode-solutions/tree/master/0002-add-two-numbers) |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/madhavzanwar/leetcode-solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0206-reverse-linked-list](https://github.com/madhavzanwar/leetcode-solutions/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/madhavzanwar/leetcode-solutions/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/madhavzanwar/leetcode-solutions/tree/master/0237-delete-node-in-a-linked-list) |
