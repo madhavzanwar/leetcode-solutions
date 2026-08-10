@@ -467,6 +467,7 @@ My LeetCode problem-solving journey — tracking solutions and progress in DSA.
 | [0060-permutation-sequence](https://github.com/madhavzanwar/leetcode-solutions/tree/master/0060-permutation-sequence) |
 | [0206-reverse-linked-list](https://github.com/madhavzanwar/leetcode-solutions/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/madhavzanwar/leetcode-solutions/tree/master/0231-power-of-two) |
+| [0234-palindrome-linked-list](https://github.com/madhavzanwar/leetcode-solutions/tree/master/0234-palindrome-linked-list) |
 | [0486-predict-the-winner](https://github.com/madhavzanwar/leetcode-solutions/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/madhavzanwar/leetcode-solutions/tree/master/0509-fibonacci-number) |
 ## Matrix
@@ -520,6 +521,7 @@ My LeetCode problem-solving journey — tracking solutions and progress in DSA.
 | [0125-valid-palindrome](https://github.com/madhavzanwar/leetcode-solutions/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/madhavzanwar/leetcode-solutions/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/madhavzanwar/leetcode-solutions/tree/master/0202-happy-number) |
+| [0234-palindrome-linked-list](https://github.com/madhavzanwar/leetcode-solutions/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/madhavzanwar/leetcode-solutions/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/madhavzanwar/leetcode-solutions/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/madhavzanwar/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
@@ -663,6 +665,7 @@ My LeetCode problem-solving journey — tracking solutions and progress in DSA.
 ## Stack
 |  |
 | ------- |
+| [0234-palindrome-linked-list](https://github.com/madhavzanwar/leetcode-solutions/tree/master/0234-palindrome-linked-list) |
 | [0682-baseball-game](https://github.com/madhavzanwar/leetcode-solutions/tree/master/0682-baseball-game) |
 | [1021-remove-outermost-parentheses](https://github.com/madhavzanwar/leetcode-solutions/tree/master/1021-remove-outermost-parentheses) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/madhavzanwar/leetcode-solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
@@ -744,6 +747,7 @@ My LeetCode problem-solving journey — tracking solutions and progress in DSA.
 | ------- |
 | [0002-add-two-numbers](https://github.com/madhavzanwar/leetcode-solutions/tree/master/0002-add-two-numbers) |
 | [0206-reverse-linked-list](https://github.com/madhavzanwar/leetcode-solutions/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/madhavzanwar/leetcode-solutions/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/madhavzanwar/leetcode-solutions/tree/master/0237-delete-node-in-a-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/madhavzanwar/leetcode-solutions/tree/master/0876-middle-of-the-linked-list) |
 ## String Matching
