@@ -274,6 +274,7 @@ My LeetCode problem-solving journey — tracking solutions and progress in DSA.
 | [2942-find-words-containing-character](https://github.com/madhavzanwar/leetcode-solutions/tree/master/2942-find-words-containing-character) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/madhavzanwar/leetcode-solutions/tree/master/2956-find-common-elements-between-two-arrays) |
 | [2974-minimum-number-game](https://github.com/madhavzanwar/leetcode-solutions/tree/master/2974-minimum-number-game) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/madhavzanwar/leetcode-solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/madhavzanwar/leetcode-solutions/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/madhavzanwar/leetcode-solutions/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3065-minimum-operations-to-exceed-threshold-value-i](https://github.com/madhavzanwar/leetcode-solutions/tree/master/3065-minimum-operations-to-exceed-threshold-value-i) |
@@ -349,6 +350,7 @@ My LeetCode problem-solving journey — tracking solutions and progress in DSA.
 | [2744-find-maximum-number-of-string-pairs](https://github.com/madhavzanwar/leetcode-solutions/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/madhavzanwar/leetcode-solutions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/madhavzanwar/leetcode-solutions/tree/master/2956-find-common-elements-between-two-arrays) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/madhavzanwar/leetcode-solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/madhavzanwar/leetcode-solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/madhavzanwar/leetcode-solutions/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3146-permutation-difference-between-two-strings](https://github.com/madhavzanwar/leetcode-solutions/tree/master/3146-permutation-difference-between-two-strings) |
@@ -398,6 +400,7 @@ My LeetCode problem-solving journey — tracking solutions and progress in DSA.
 | [2475-number-of-unequal-triplets-in-array](https://github.com/madhavzanwar/leetcode-solutions/tree/master/2475-number-of-unequal-triplets-in-array) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/madhavzanwar/leetcode-solutions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [2974-minimum-number-game](https://github.com/madhavzanwar/leetcode-solutions/tree/master/2974-minimum-number-game) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/madhavzanwar/leetcode-solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/madhavzanwar/leetcode-solutions/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/madhavzanwar/leetcode-solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/madhavzanwar/leetcode-solutions/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
