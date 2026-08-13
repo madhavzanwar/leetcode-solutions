@@ -91,6 +91,7 @@ My LeetCode problem-solving journey — tracking solutions and progress in DSA.
 | [0412-fizz-buzz](https://github.com/madhavzanwar/leetcode-solutions/tree/master/0412-fizz-buzz) |
 | [0709-to-lower-case](https://github.com/madhavzanwar/leetcode-solutions/tree/master/0709-to-lower-case) |
 | [0771-jewels-and-stones](https://github.com/madhavzanwar/leetcode-solutions/tree/master/0771-jewels-and-stones) |
+| [0942-di-string-match](https://github.com/madhavzanwar/leetcode-solutions/tree/master/0942-di-string-match) |
 | [1021-remove-outermost-parentheses](https://github.com/madhavzanwar/leetcode-solutions/tree/master/1021-remove-outermost-parentheses) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/madhavzanwar/leetcode-solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1108-defanging-an-ip-address](https://github.com/madhavzanwar/leetcode-solutions/tree/master/1108-defanging-an-ip-address) |
@@ -196,6 +197,7 @@ My LeetCode problem-solving journey — tracking solutions and progress in DSA.
 | [0682-baseball-game](https://github.com/madhavzanwar/leetcode-solutions/tree/master/0682-baseball-game) |
 | [0832-flipping-an-image](https://github.com/madhavzanwar/leetcode-solutions/tree/master/0832-flipping-an-image) |
 | [0877-stone-game](https://github.com/madhavzanwar/leetcode-solutions/tree/master/0877-stone-game) |
+| [0942-di-string-match](https://github.com/madhavzanwar/leetcode-solutions/tree/master/0942-di-string-match) |
 | [1122-relative-sort-array](https://github.com/madhavzanwar/leetcode-solutions/tree/master/1122-relative-sort-array) |
 | [1140-stone-game-ii](https://github.com/madhavzanwar/leetcode-solutions/tree/master/1140-stone-game-ii) |
 | [1260-shift-2d-grid](https://github.com/madhavzanwar/leetcode-solutions/tree/master/1260-shift-2d-grid) |
@@ -418,6 +420,7 @@ My LeetCode problem-solving journey — tracking solutions and progress in DSA.
 |  |
 | ------- |
 | [0561-array-partition](https://github.com/madhavzanwar/leetcode-solutions/tree/master/0561-array-partition) |
+| [0942-di-string-match](https://github.com/madhavzanwar/leetcode-solutions/tree/master/0942-di-string-match) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/madhavzanwar/leetcode-solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1323-maximum-69-number](https://github.com/madhavzanwar/leetcode-solutions/tree/master/1323-maximum-69-number) |
 | [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/madhavzanwar/leetcode-solutions/tree/master/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
@@ -535,6 +538,7 @@ My LeetCode problem-solving journey — tracking solutions and progress in DSA.
 | [0349-intersection-of-two-arrays](https://github.com/madhavzanwar/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0832-flipping-an-image](https://github.com/madhavzanwar/leetcode-solutions/tree/master/0832-flipping-an-image) |
 | [0876-middle-of-the-linked-list](https://github.com/madhavzanwar/leetcode-solutions/tree/master/0876-middle-of-the-linked-list) |
+| [0942-di-string-match](https://github.com/madhavzanwar/leetcode-solutions/tree/master/0942-di-string-match) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/madhavzanwar/leetcode-solutions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/madhavzanwar/leetcode-solutions/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/madhavzanwar/leetcode-solutions/tree/master/2149-rearrange-array-elements-by-sign) |
