@@ -160,6 +160,7 @@ My LeetCode problem-solving journey — tracking solutions and progress in DSA.
 | [3498-reverse-degree-of-a-string](https://github.com/madhavzanwar/leetcode-solutions/tree/master/3498-reverse-degree-of-a-string) |
 | [3701-compute-alternating-sum](https://github.com/madhavzanwar/leetcode-solutions/tree/master/3701-compute-alternating-sum) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/madhavzanwar/leetcode-solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+| [4020-elevator-requests-i](https://github.com/madhavzanwar/leetcode-solutions/tree/master/4020-elevator-requests-i) |
 ## Array
 |  |
 | ------- |
@@ -321,6 +322,7 @@ My LeetCode problem-solving journey — tracking solutions and progress in DSA.
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/madhavzanwar/leetcode-solutions/tree/master/3739-count-subarrays-with-majority-element-ii) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/madhavzanwar/leetcode-solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3917-count-indices-with-opposite-parity](https://github.com/madhavzanwar/leetcode-solutions/tree/master/3917-count-indices-with-opposite-parity) |
+| [4020-elevator-requests-i](https://github.com/madhavzanwar/leetcode-solutions/tree/master/4020-elevator-requests-i) |
 ## Hash Table
 |  |
 | ------- |
