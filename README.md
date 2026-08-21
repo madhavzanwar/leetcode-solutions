@@ -88,6 +88,7 @@ My LeetCode problem-solving journey — tracking solutions and progress in DSA.
 | [0242-valid-anagram](https://github.com/madhavzanwar/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/madhavzanwar/leetcode-solutions/tree/master/0290-word-pattern) |
 | [0344-reverse-string](https://github.com/madhavzanwar/leetcode-solutions/tree/master/0344-reverse-string) |
+| [0383-ransom-note](https://github.com/madhavzanwar/leetcode-solutions/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/madhavzanwar/leetcode-solutions/tree/master/0389-find-the-difference) |
 | [0412-fizz-buzz](https://github.com/madhavzanwar/leetcode-solutions/tree/master/0412-fizz-buzz) |
 | [0709-to-lower-case](https://github.com/madhavzanwar/leetcode-solutions/tree/master/0709-to-lower-case) |
@@ -341,6 +342,7 @@ My LeetCode problem-solving journey — tracking solutions and progress in DSA.
 | [0268-missing-number](https://github.com/madhavzanwar/leetcode-solutions/tree/master/0268-missing-number) |
 | [0290-word-pattern](https://github.com/madhavzanwar/leetcode-solutions/tree/master/0290-word-pattern) |
 | [0349-intersection-of-two-arrays](https://github.com/madhavzanwar/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
+| [0383-ransom-note](https://github.com/madhavzanwar/leetcode-solutions/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/madhavzanwar/leetcode-solutions/tree/master/0389-find-the-difference) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/madhavzanwar/leetcode-solutions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/madhavzanwar/leetcode-solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -510,6 +512,7 @@ My LeetCode problem-solving journey — tracking solutions and progress in DSA.
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/madhavzanwar/leetcode-solutions/tree/master/0169-majority-element) |
+| [0383-ransom-note](https://github.com/madhavzanwar/leetcode-solutions/tree/master/0383-ransom-note) |
 | [1512-number-of-good-pairs](https://github.com/madhavzanwar/leetcode-solutions/tree/master/1512-number-of-good-pairs) |
 | [1603-design-parking-system](https://github.com/madhavzanwar/leetcode-solutions/tree/master/1603-design-parking-system) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/madhavzanwar/leetcode-solutions/tree/master/1684-count-the-number-of-consistent-strings) |
