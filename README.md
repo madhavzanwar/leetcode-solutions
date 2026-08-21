@@ -227,6 +227,7 @@ My LeetCode problem-solving journey — tracking solutions and progress in DSA.
 | [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/madhavzanwar/leetcode-solutions/tree/master/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1528-shuffle-string](https://github.com/madhavzanwar/leetcode-solutions/tree/master/1528-shuffle-string) |
 | [1534-count-good-triplets](https://github.com/madhavzanwar/leetcode-solutions/tree/master/1534-count-good-triplets) |
+| [1539-kth-missing-positive-number](https://github.com/madhavzanwar/leetcode-solutions/tree/master/1539-kth-missing-positive-number) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/madhavzanwar/leetcode-solutions/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1572-matrix-diagonal-sum](https://github.com/madhavzanwar/leetcode-solutions/tree/master/1572-matrix-diagonal-sum) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/madhavzanwar/leetcode-solutions/tree/master/1588-sum-of-all-odd-length-subarrays) |
@@ -571,6 +572,7 @@ My LeetCode problem-solving journey — tracking solutions and progress in DSA.
 | [0268-missing-number](https://github.com/madhavzanwar/leetcode-solutions/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/madhavzanwar/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/madhavzanwar/leetcode-solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [1539-kth-missing-positive-number](https://github.com/madhavzanwar/leetcode-solutions/tree/master/1539-kth-missing-positive-number) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/madhavzanwar/leetcode-solutions/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/madhavzanwar/leetcode-solutions/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/madhavzanwar/leetcode-solutions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
