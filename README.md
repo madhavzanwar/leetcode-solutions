@@ -326,6 +326,7 @@ My LeetCode problem-solving journey — tracking solutions and progress in DSA.
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/madhavzanwar/leetcode-solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3917-count-indices-with-opposite-parity](https://github.com/madhavzanwar/leetcode-solutions/tree/master/3917-count-indices-with-opposite-parity) |
 | [4020-elevator-requests-i](https://github.com/madhavzanwar/leetcode-solutions/tree/master/4020-elevator-requests-i) |
+| [4024-nearest-available-drone](https://github.com/madhavzanwar/leetcode-solutions/tree/master/4024-nearest-available-drone) |
 ## Hash Table
 |  |
 | ------- |
@@ -536,6 +537,7 @@ My LeetCode problem-solving journey — tracking solutions and progress in DSA.
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/madhavzanwar/leetcode-solutions/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/madhavzanwar/leetcode-solutions/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/madhavzanwar/leetcode-solutions/tree/master/3514-number-of-unique-xor-triplets-ii) |
+| [4024-nearest-available-drone](https://github.com/madhavzanwar/leetcode-solutions/tree/master/4024-nearest-available-drone) |
 ## Two Pointers
 |  |
 | ------- |
