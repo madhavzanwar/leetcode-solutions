@@ -326,6 +326,7 @@ My LeetCode problem-solving journey — tracking solutions and progress in DSA.
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/madhavzanwar/leetcode-solutions/tree/master/3739-count-subarrays-with-majority-element-ii) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/madhavzanwar/leetcode-solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3875-construct-uniform-parity-array-i](https://github.com/madhavzanwar/leetcode-solutions/tree/master/3875-construct-uniform-parity-array-i) |
+| [3903-smallest-stable-index-i](https://github.com/madhavzanwar/leetcode-solutions/tree/master/3903-smallest-stable-index-i) |
 | [3917-count-indices-with-opposite-parity](https://github.com/madhavzanwar/leetcode-solutions/tree/master/3917-count-indices-with-opposite-parity) |
 | [4020-elevator-requests-i](https://github.com/madhavzanwar/leetcode-solutions/tree/master/4020-elevator-requests-i) |
 | [4024-nearest-available-drone](https://github.com/madhavzanwar/leetcode-solutions/tree/master/4024-nearest-available-drone) |
@@ -604,6 +605,7 @@ My LeetCode problem-solving journey — tracking solutions and progress in DSA.
 | [3737-count-subarrays-with-majority-element-i](https://github.com/madhavzanwar/leetcode-solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/madhavzanwar/leetcode-solutions/tree/master/3739-count-subarrays-with-majority-element-ii) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/madhavzanwar/leetcode-solutions/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
+| [3903-smallest-stable-index-i](https://github.com/madhavzanwar/leetcode-solutions/tree/master/3903-smallest-stable-index-i) |
 ## Database
 |  |
 | ------- |
