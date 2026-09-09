@@ -77,6 +77,7 @@ My LeetCode problem-solving journey — tracking solutions and progress in DSA.
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/madhavzanwar/leetcode-solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3870-count-commas-in-range](https://github.com/madhavzanwar/leetcode-solutions/tree/master/3870-count-commas-in-range) |
 | [3875-construct-uniform-parity-array-i](https://github.com/madhavzanwar/leetcode-solutions/tree/master/3875-construct-uniform-parity-array-i) |
+| [3945-digit-frequency-score](https://github.com/madhavzanwar/leetcode-solutions/tree/master/3945-digit-frequency-score) |
 ## String
 |  |
 | ------- |
@@ -393,6 +394,7 @@ My LeetCode problem-solving journey — tracking solutions and progress in DSA.
 | [3737-count-subarrays-with-majority-element-i](https://github.com/madhavzanwar/leetcode-solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/madhavzanwar/leetcode-solutions/tree/master/3739-count-subarrays-with-majority-element-ii) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/madhavzanwar/leetcode-solutions/tree/master/3760-maximum-substrings-with-distinct-start) |
+| [3945-digit-frequency-score](https://github.com/madhavzanwar/leetcode-solutions/tree/master/3945-digit-frequency-score) |
 ## Sorting
 |  |
 | ------- |
