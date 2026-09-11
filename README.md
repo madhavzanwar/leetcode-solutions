@@ -316,6 +316,7 @@ My LeetCode problem-solving journey — tracking solutions and progress in DSA.
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/madhavzanwar/leetcode-solutions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3427-sum-of-variable-length-subarrays](https://github.com/madhavzanwar/leetcode-solutions/tree/master/3427-sum-of-variable-length-subarrays) |
 | [3467-transform-array-by-parity](https://github.com/madhavzanwar/leetcode-solutions/tree/master/3467-transform-array-by-parity) |
+| [3483-unique-3-digit-even-numbers](https://github.com/madhavzanwar/leetcode-solutions/tree/master/3483-unique-3-digit-even-numbers) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/madhavzanwar/leetcode-solutions/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3502-minimum-cost-to-reach-every-position](https://github.com/madhavzanwar/leetcode-solutions/tree/master/3502-minimum-cost-to-reach-every-position) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/madhavzanwar/leetcode-solutions/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
@@ -388,6 +389,7 @@ My LeetCode problem-solving journey — tracking solutions and progress in DSA.
 | [3162-find-the-number-of-good-pairs-i](https://github.com/madhavzanwar/leetcode-solutions/tree/master/3162-find-the-number-of-good-pairs-i) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/madhavzanwar/leetcode-solutions/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3312-sorted-gcd-pair-queries](https://github.com/madhavzanwar/leetcode-solutions/tree/master/3312-sorted-gcd-pair-queries) |
+| [3483-unique-3-digit-even-numbers](https://github.com/madhavzanwar/leetcode-solutions/tree/master/3483-unique-3-digit-even-numbers) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/madhavzanwar/leetcode-solutions/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/madhavzanwar/leetcode-solutions/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3668-restore-finishing-order](https://github.com/madhavzanwar/leetcode-solutions/tree/master/3668-restore-finishing-order) |
@@ -507,6 +509,7 @@ My LeetCode problem-solving journey — tracking solutions and progress in DSA.
 | [0234-palindrome-linked-list](https://github.com/madhavzanwar/leetcode-solutions/tree/master/0234-palindrome-linked-list) |
 | [0486-predict-the-winner](https://github.com/madhavzanwar/leetcode-solutions/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/madhavzanwar/leetcode-solutions/tree/master/0509-fibonacci-number) |
+| [3483-unique-3-digit-even-numbers](https://github.com/madhavzanwar/leetcode-solutions/tree/master/3483-unique-3-digit-even-numbers) |
 ## Matrix
 |  |
 | ------- |
@@ -547,6 +550,7 @@ My LeetCode problem-solving journey — tracking solutions and progress in DSA.
 | [2778-sum-of-squares-of-special-elements](https://github.com/madhavzanwar/leetcode-solutions/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/madhavzanwar/leetcode-solutions/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/madhavzanwar/leetcode-solutions/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
+| [3483-unique-3-digit-even-numbers](https://github.com/madhavzanwar/leetcode-solutions/tree/master/3483-unique-3-digit-even-numbers) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/madhavzanwar/leetcode-solutions/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/madhavzanwar/leetcode-solutions/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [4024-nearest-available-drone](https://github.com/madhavzanwar/leetcode-solutions/tree/master/4024-nearest-available-drone) |
