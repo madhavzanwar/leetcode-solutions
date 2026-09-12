@@ -220,6 +220,7 @@ My LeetCode problem-solving journey — tracking solutions and progress in DSA.
 | [1266-minimum-time-visiting-all-points](https://github.com/madhavzanwar/leetcode-solutions/tree/master/1266-minimum-time-visiting-all-points) |
 | [1288-remove-covered-intervals](https://github.com/madhavzanwar/leetcode-solutions/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/madhavzanwar/leetcode-solutions/tree/master/1301-number-of-paths-with-max-score) |
+| [1313-decompress-run-length-encoded-list](https://github.com/madhavzanwar/leetcode-solutions/tree/master/1313-decompress-run-length-encoded-list) |
 | [1331-rank-transform-of-an-array](https://github.com/madhavzanwar/leetcode-solutions/tree/master/1331-rank-transform-of-an-array) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/madhavzanwar/leetcode-solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/madhavzanwar/leetcode-solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
