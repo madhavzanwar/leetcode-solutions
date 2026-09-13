@@ -133,6 +133,7 @@ My LeetCode problem-solving journey — tracking solutions and progress in DSA.
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/madhavzanwar/leetcode-solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3110-score-of-a-string](https://github.com/madhavzanwar/leetcode-solutions/tree/master/3110-score-of-a-string) |
 | [3146-permutation-difference-between-two-strings](https://github.com/madhavzanwar/leetcode-solutions/tree/master/3146-permutation-difference-between-two-strings) |
+| [3174-clear-digits](https://github.com/madhavzanwar/leetcode-solutions/tree/master/3174-clear-digits) |
 | [3248-snake-in-matrix](https://github.com/madhavzanwar/leetcode-solutions/tree/master/3248-snake-in-matrix) |
 | [3280-convert-date-to-binary](https://github.com/madhavzanwar/leetcode-solutions/tree/master/3280-convert-date-to-binary) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/madhavzanwar/leetcode-solutions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -167,6 +168,7 @@ My LeetCode problem-solving journey — tracking solutions and progress in DSA.
 | [2744-find-maximum-number-of-string-pairs](https://github.com/madhavzanwar/leetcode-solutions/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [2974-minimum-number-game](https://github.com/madhavzanwar/leetcode-solutions/tree/master/2974-minimum-number-game) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/madhavzanwar/leetcode-solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3174-clear-digits](https://github.com/madhavzanwar/leetcode-solutions/tree/master/3174-clear-digits) |
 | [3248-snake-in-matrix](https://github.com/madhavzanwar/leetcode-solutions/tree/master/3248-snake-in-matrix) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/madhavzanwar/leetcode-solutions/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3498-reverse-degree-of-a-string](https://github.com/madhavzanwar/leetcode-solutions/tree/master/3498-reverse-degree-of-a-string) |
@@ -730,6 +732,7 @@ My LeetCode problem-solving journey — tracking solutions and progress in DSA.
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/madhavzanwar/leetcode-solutions/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/madhavzanwar/leetcode-solutions/tree/master/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [2000-reverse-prefix-of-word](https://github.com/madhavzanwar/leetcode-solutions/tree/master/2000-reverse-prefix-of-word) |
+| [3174-clear-digits](https://github.com/madhavzanwar/leetcode-solutions/tree/master/3174-clear-digits) |
 ## Divide and Conquer
 |  |
 | ------- |
