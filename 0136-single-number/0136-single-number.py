@@ -6,7 +6,7 @@ class Solution(object):
         """
         result = 0 
         for i in nums:
-            result ^= i
+            result ^= i # a^a = 0, duplicates cancel out
             
         return result
 
