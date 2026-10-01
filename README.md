@@ -37,6 +37,7 @@ My LeetCode problem-solving journey — tracking solutions and progress in DSA.
 | [1406-stone-game-iii](https://github.com/madhavzanwar/leetcode-solutions/tree/master/1406-stone-game-iii) |
 | [1512-number-of-good-pairs](https://github.com/madhavzanwar/leetcode-solutions/tree/master/1512-number-of-good-pairs) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/madhavzanwar/leetcode-solutions/tree/master/1523-count-odd-numbers-in-an-interval-range) |
+| [1551-minimum-operations-to-make-array-equal](https://github.com/madhavzanwar/leetcode-solutions/tree/master/1551-minimum-operations-to-make-array-equal) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/madhavzanwar/leetcode-solutions/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/madhavzanwar/leetcode-solutions/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1688-count-of-matches-in-tournament](https://github.com/madhavzanwar/leetcode-solutions/tree/master/1688-count-of-matches-in-tournament) |
