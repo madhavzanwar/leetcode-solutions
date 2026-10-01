@@ -66,6 +66,7 @@ My LeetCode problem-solving journey — tracking solutions and progress in DSA.
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/madhavzanwar/leetcode-solutions/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3312-sorted-gcd-pair-queries](https://github.com/madhavzanwar/leetcode-solutions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/madhavzanwar/leetcode-solutions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
+| [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/madhavzanwar/leetcode-solutions/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/madhavzanwar/leetcode-solutions/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/madhavzanwar/leetcode-solutions/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/madhavzanwar/leetcode-solutions/tree/master/3514-number-of-unique-xor-triplets-ii) |
@@ -139,6 +140,7 @@ My LeetCode problem-solving journey — tracking solutions and progress in DSA.
 | [3248-snake-in-matrix](https://github.com/madhavzanwar/leetcode-solutions/tree/master/3248-snake-in-matrix) |
 | [3280-convert-date-to-binary](https://github.com/madhavzanwar/leetcode-solutions/tree/master/3280-convert-date-to-binary) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/madhavzanwar/leetcode-solutions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
+| [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/madhavzanwar/leetcode-solutions/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3498-reverse-degree-of-a-string](https://github.com/madhavzanwar/leetcode-solutions/tree/master/3498-reverse-degree-of-a-string) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/madhavzanwar/leetcode-solutions/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/madhavzanwar/leetcode-solutions/tree/master/3501-maximize-active-section-with-trade-ii) |
@@ -173,6 +175,7 @@ My LeetCode problem-solving journey — tracking solutions and progress in DSA.
 | [3174-clear-digits](https://github.com/madhavzanwar/leetcode-solutions/tree/master/3174-clear-digits) |
 | [3248-snake-in-matrix](https://github.com/madhavzanwar/leetcode-solutions/tree/master/3248-snake-in-matrix) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/madhavzanwar/leetcode-solutions/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
+| [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/madhavzanwar/leetcode-solutions/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3498-reverse-degree-of-a-string](https://github.com/madhavzanwar/leetcode-solutions/tree/master/3498-reverse-degree-of-a-string) |
 | [3701-compute-alternating-sum](https://github.com/madhavzanwar/leetcode-solutions/tree/master/3701-compute-alternating-sum) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/madhavzanwar/leetcode-solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -508,6 +511,7 @@ My LeetCode problem-solving journey — tracking solutions and progress in DSA.
 | [2413-smallest-even-multiple](https://github.com/madhavzanwar/leetcode-solutions/tree/master/2413-smallest-even-multiple) |
 | [3312-sorted-gcd-pair-queries](https://github.com/madhavzanwar/leetcode-solutions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/madhavzanwar/leetcode-solutions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
+| [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/madhavzanwar/leetcode-solutions/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/madhavzanwar/leetcode-solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/madhavzanwar/leetcode-solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Recursion
@@ -673,6 +677,7 @@ My LeetCode problem-solving journey — tracking solutions and progress in DSA.
 | [1866-number-of-ways-to-rearrange-sticks-with-k-sticks-visible](https://github.com/madhavzanwar/leetcode-solutions/tree/master/1866-number-of-ways-to-rearrange-sticks-with-k-sticks-visible) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/madhavzanwar/leetcode-solutions/tree/master/2221-find-triangular-sum-of-an-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/madhavzanwar/leetcode-solutions/tree/master/3312-sorted-gcd-pair-queries) |
+| [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/madhavzanwar/leetcode-solutions/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/madhavzanwar/leetcode-solutions/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Dynamic Programming
 |  |
