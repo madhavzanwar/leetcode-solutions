@@ -17,6 +17,7 @@ My LeetCode problem-solving journey — tracking solutions and progress in DSA.
 | [0060-permutation-sequence](https://github.com/madhavzanwar/leetcode-solutions/tree/master/0060-permutation-sequence) |
 | [0066-plus-one](https://github.com/madhavzanwar/leetcode-solutions/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/madhavzanwar/leetcode-solutions/tree/master/0067-add-binary) |
+| [0070-climbing-stairs](https://github.com/madhavzanwar/leetcode-solutions/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/madhavzanwar/leetcode-solutions/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/madhavzanwar/leetcode-solutions/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/madhavzanwar/leetcode-solutions/tree/master/0231-power-of-two) |
@@ -693,6 +694,7 @@ My LeetCode problem-solving journey — tracking solutions and progress in DSA.
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/madhavzanwar/leetcode-solutions/tree/master/0032-longest-valid-parentheses) |
 | [0053-maximum-subarray](https://github.com/madhavzanwar/leetcode-solutions/tree/master/0053-maximum-subarray) |
+| [0070-climbing-stairs](https://github.com/madhavzanwar/leetcode-solutions/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/madhavzanwar/leetcode-solutions/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/madhavzanwar/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/madhavzanwar/leetcode-solutions/tree/master/0198-house-robber) |
@@ -712,6 +714,7 @@ My LeetCode problem-solving journey — tracking solutions and progress in DSA.
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/madhavzanwar/leetcode-solutions/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/madhavzanwar/leetcode-solutions/tree/master/0509-fibonacci-number) |
 ## Design
 |  |
