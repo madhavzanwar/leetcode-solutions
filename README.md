@@ -59,6 +59,7 @@ My LeetCode problem-solving journey — tracking solutions and progress in DSA.
 | [2520-count-the-digits-that-divide-a-number](https://github.com/madhavzanwar/leetcode-solutions/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/madhavzanwar/leetcode-solutions/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2652-sum-multiples](https://github.com/madhavzanwar/leetcode-solutions/tree/master/2652-sum-multiples) |
+| [2698-find-the-punishment-number-of-an-integer](https://github.com/madhavzanwar/leetcode-solutions/tree/master/2698-find-the-punishment-number-of-an-integer) |
 | [2769-find-the-maximum-achievable-number](https://github.com/madhavzanwar/leetcode-solutions/tree/master/2769-find-the-maximum-achievable-number) |
 | [2843-count-symmetric-integers](https://github.com/madhavzanwar/leetcode-solutions/tree/master/2843-count-symmetric-integers) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/madhavzanwar/leetcode-solutions/tree/master/2894-divisible-and-non-divisible-sums-difference) |
@@ -688,6 +689,7 @@ My LeetCode problem-solving journey — tracking solutions and progress in DSA.
 |  |
 | ------- |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/madhavzanwar/leetcode-solutions/tree/master/1863-sum-of-all-subset-xor-totals) |
+| [2698-find-the-punishment-number-of-an-integer](https://github.com/madhavzanwar/leetcode-solutions/tree/master/2698-find-the-punishment-number-of-an-integer) |
 ## Combinatorics
 |  |
 | ------- |
