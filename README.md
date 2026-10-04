@@ -81,6 +81,7 @@ My LeetCode problem-solving journey — tracking solutions and progress in DSA.
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/madhavzanwar/leetcode-solutions/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/madhavzanwar/leetcode-solutions/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 | [3783-mirror-distance-of-an-integer](https://github.com/madhavzanwar/leetcode-solutions/tree/master/3783-mirror-distance-of-an-integer) |
+| [3857-minimum-cost-to-split-into-ones](https://github.com/madhavzanwar/leetcode-solutions/tree/master/3857-minimum-cost-to-split-into-ones) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/madhavzanwar/leetcode-solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3870-count-commas-in-range](https://github.com/madhavzanwar/leetcode-solutions/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/madhavzanwar/leetcode-solutions/tree/master/3871-count-commas-in-range-ii) |
@@ -705,6 +706,7 @@ My LeetCode problem-solving journey — tracking solutions and progress in DSA.
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/madhavzanwar/leetcode-solutions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/madhavzanwar/leetcode-solutions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/madhavzanwar/leetcode-solutions/tree/master/3620-network-recovery-pathways) |
+| [3857-minimum-cost-to-split-into-ones](https://github.com/madhavzanwar/leetcode-solutions/tree/master/3857-minimum-cost-to-split-into-ones) |
 ## Memoization
 |  |
 | ------- |
