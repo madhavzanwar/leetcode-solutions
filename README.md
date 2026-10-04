@@ -48,6 +48,7 @@ My LeetCode problem-solving journey — tracking solutions and progress in DSA.
 | [1979-find-greatest-common-divisor-of-array](https://github.com/madhavzanwar/leetcode-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2119-a-number-after-a-double-reversal](https://github.com/madhavzanwar/leetcode-solutions/tree/master/2119-a-number-after-a-double-reversal) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/madhavzanwar/leetcode-solutions/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
+| [2169-count-operations-to-obtain-zero](https://github.com/madhavzanwar/leetcode-solutions/tree/master/2169-count-operations-to-obtain-zero) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/madhavzanwar/leetcode-solutions/tree/master/2221-find-triangular-sum-of-an-array) |
 | [2235-add-two-integers](https://github.com/madhavzanwar/leetcode-solutions/tree/master/2235-add-two-integers) |
 | [2396-strictly-palindromic-number](https://github.com/madhavzanwar/leetcode-solutions/tree/master/2396-strictly-palindromic-number) |
@@ -173,6 +174,7 @@ My LeetCode problem-solving journey — tracking solutions and progress in DSA.
 | [2079-watering-plants](https://github.com/madhavzanwar/leetcode-solutions/tree/master/2079-watering-plants) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/madhavzanwar/leetcode-solutions/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/madhavzanwar/leetcode-solutions/tree/master/2161-partition-array-according-to-given-pivot) |
+| [2169-count-operations-to-obtain-zero](https://github.com/madhavzanwar/leetcode-solutions/tree/master/2169-count-operations-to-obtain-zero) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/madhavzanwar/leetcode-solutions/tree/master/2221-find-triangular-sum-of-an-array) |
 | [2553-separate-the-digits-in-an-array](https://github.com/madhavzanwar/leetcode-solutions/tree/master/2553-separate-the-digits-in-an-array) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/madhavzanwar/leetcode-solutions/tree/master/2744-find-maximum-number-of-string-pairs) |
