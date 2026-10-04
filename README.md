@@ -354,6 +354,7 @@ My LeetCode problem-solving journey — tracking solutions and progress in DSA.
 | [3875-construct-uniform-parity-array-i](https://github.com/madhavzanwar/leetcode-solutions/tree/master/3875-construct-uniform-parity-array-i) |
 | [3903-smallest-stable-index-i](https://github.com/madhavzanwar/leetcode-solutions/tree/master/3903-smallest-stable-index-i) |
 | [3917-count-indices-with-opposite-parity](https://github.com/madhavzanwar/leetcode-solutions/tree/master/3917-count-indices-with-opposite-parity) |
+| [3978-unique-middle-element](https://github.com/madhavzanwar/leetcode-solutions/tree/master/3978-unique-middle-element) |
 | [4020-elevator-requests-i](https://github.com/madhavzanwar/leetcode-solutions/tree/master/4020-elevator-requests-i) |
 | [4024-nearest-available-drone](https://github.com/madhavzanwar/leetcode-solutions/tree/master/4024-nearest-available-drone) |
 ## Hash Table
@@ -563,6 +564,7 @@ My LeetCode problem-solving journey — tracking solutions and progress in DSA.
 | [3467-transform-array-by-parity](https://github.com/madhavzanwar/leetcode-solutions/tree/master/3467-transform-array-by-parity) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/madhavzanwar/leetcode-solutions/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/madhavzanwar/leetcode-solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
+| [3978-unique-middle-element](https://github.com/madhavzanwar/leetcode-solutions/tree/master/3978-unique-middle-element) |
 ## Enumeration
 |  |
 | ------- |
