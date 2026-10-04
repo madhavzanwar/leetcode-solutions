@@ -44,6 +44,7 @@ My LeetCode problem-solving journey — tracking solutions and progress in DSA.
 | [1688-count-of-matches-in-tournament](https://github.com/madhavzanwar/leetcode-solutions/tree/master/1688-count-of-matches-in-tournament) |
 | [1812-determine-color-of-a-chessboard-square](https://github.com/madhavzanwar/leetcode-solutions/tree/master/1812-determine-color-of-a-chessboard-square) |
 | [1828-queries-on-number-of-points-inside-a-circle](https://github.com/madhavzanwar/leetcode-solutions/tree/master/1828-queries-on-number-of-points-inside-a-circle) |
+| [1837-sum-of-digits-in-base-k](https://github.com/madhavzanwar/leetcode-solutions/tree/master/1837-sum-of-digits-in-base-k) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/madhavzanwar/leetcode-solutions/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1866-number-of-ways-to-rearrange-sticks-with-k-sticks-visible](https://github.com/madhavzanwar/leetcode-solutions/tree/master/1866-number-of-ways-to-rearrange-sticks-with-k-sticks-visible) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/madhavzanwar/leetcode-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
