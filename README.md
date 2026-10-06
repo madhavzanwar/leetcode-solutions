@@ -38,6 +38,7 @@ My LeetCode problem-solving journey — tracking solutions and progress in DSA.
 | [1406-stone-game-iii](https://github.com/madhavzanwar/leetcode-solutions/tree/master/1406-stone-game-iii) |
 | [1486-xor-operation-in-an-array](https://github.com/madhavzanwar/leetcode-solutions/tree/master/1486-xor-operation-in-an-array) |
 | [1512-number-of-good-pairs](https://github.com/madhavzanwar/leetcode-solutions/tree/master/1512-number-of-good-pairs) |
+| [1518-water-bottles](https://github.com/madhavzanwar/leetcode-solutions/tree/master/1518-water-bottles) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/madhavzanwar/leetcode-solutions/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1551-minimum-operations-to-make-array-equal](https://github.com/madhavzanwar/leetcode-solutions/tree/master/1551-minimum-operations-to-make-array-equal) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/madhavzanwar/leetcode-solutions/tree/master/1561-maximum-number-of-coins-you-can-get) |
@@ -172,6 +173,7 @@ My LeetCode problem-solving journey — tracking solutions and progress in DSA.
 | [0832-flipping-an-image](https://github.com/madhavzanwar/leetcode-solutions/tree/master/0832-flipping-an-image) |
 | [1260-shift-2d-grid](https://github.com/madhavzanwar/leetcode-solutions/tree/master/1260-shift-2d-grid) |
 | [1389-create-target-array-in-the-given-order](https://github.com/madhavzanwar/leetcode-solutions/tree/master/1389-create-target-array-in-the-given-order) |
+| [1518-water-bottles](https://github.com/madhavzanwar/leetcode-solutions/tree/master/1518-water-bottles) |
 | [1603-design-parking-system](https://github.com/madhavzanwar/leetcode-solutions/tree/master/1603-design-parking-system) |
 | [1688-count-of-matches-in-tournament](https://github.com/madhavzanwar/leetcode-solutions/tree/master/1688-count-of-matches-in-tournament) |
 | [1920-build-array-from-permutation](https://github.com/madhavzanwar/leetcode-solutions/tree/master/1920-build-array-from-permutation) |
