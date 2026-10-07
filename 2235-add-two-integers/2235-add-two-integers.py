@@ -5,5 +5,5 @@ class Solution(object):
         :type num2: int
         :rtype: int
         """
-        result = (num1 + num2)
-        return result
+        num = num1+num2
+        return num
