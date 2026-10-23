@@ -146,6 +146,7 @@ My LeetCode problem-solving journey — tracking solutions and progress in DSA.
 | [2418-sort-the-people](https://github.com/madhavzanwar/leetcode-solutions/tree/master/2418-sort-the-people) |
 | [2678-number-of-senior-citizens](https://github.com/madhavzanwar/leetcode-solutions/tree/master/2678-number-of-senior-citizens) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/madhavzanwar/leetcode-solutions/tree/master/2744-find-maximum-number-of-string-pairs) |
+| [2810-faulty-keyboard](https://github.com/madhavzanwar/leetcode-solutions/tree/master/2810-faulty-keyboard) |
 | [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/madhavzanwar/leetcode-solutions/tree/master/2828-check-if-a-string-is-an-acronym-of-words) |
 | [2942-find-words-containing-character](https://github.com/madhavzanwar/leetcode-solutions/tree/master/2942-find-words-containing-character) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/madhavzanwar/leetcode-solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -191,6 +192,7 @@ My LeetCode problem-solving journey — tracking solutions and progress in DSA.
 | [2221-find-triangular-sum-of-an-array](https://github.com/madhavzanwar/leetcode-solutions/tree/master/2221-find-triangular-sum-of-an-array) |
 | [2553-separate-the-digits-in-an-array](https://github.com/madhavzanwar/leetcode-solutions/tree/master/2553-separate-the-digits-in-an-array) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/madhavzanwar/leetcode-solutions/tree/master/2744-find-maximum-number-of-string-pairs) |
+| [2810-faulty-keyboard](https://github.com/madhavzanwar/leetcode-solutions/tree/master/2810-faulty-keyboard) |
 | [2974-minimum-number-game](https://github.com/madhavzanwar/leetcode-solutions/tree/master/2974-minimum-number-game) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/madhavzanwar/leetcode-solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3174-clear-digits](https://github.com/madhavzanwar/leetcode-solutions/tree/master/3174-clear-digits) |
