@@ -198,6 +198,7 @@ My LeetCode problem-solving journey — tracking solutions and progress in DSA.
 | [3174-clear-digits](https://github.com/madhavzanwar/leetcode-solutions/tree/master/3174-clear-digits) |
 | [3248-snake-in-matrix](https://github.com/madhavzanwar/leetcode-solutions/tree/master/3248-snake-in-matrix) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/madhavzanwar/leetcode-solutions/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
+| [3379-transformed-array](https://github.com/madhavzanwar/leetcode-solutions/tree/master/3379-transformed-array) |
 | [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/madhavzanwar/leetcode-solutions/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3498-reverse-degree-of-a-string](https://github.com/madhavzanwar/leetcode-solutions/tree/master/3498-reverse-degree-of-a-string) |
 | [3701-compute-alternating-sum](https://github.com/madhavzanwar/leetcode-solutions/tree/master/3701-compute-alternating-sum) |
@@ -353,6 +354,7 @@ My LeetCode problem-solving journey — tracking solutions and progress in DSA.
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/madhavzanwar/leetcode-solutions/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3312-sorted-gcd-pair-queries](https://github.com/madhavzanwar/leetcode-solutions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/madhavzanwar/leetcode-solutions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
+| [3379-transformed-array](https://github.com/madhavzanwar/leetcode-solutions/tree/master/3379-transformed-array) |
 | [3427-sum-of-variable-length-subarrays](https://github.com/madhavzanwar/leetcode-solutions/tree/master/3427-sum-of-variable-length-subarrays) |
 | [3467-transform-array-by-parity](https://github.com/madhavzanwar/leetcode-solutions/tree/master/3467-transform-array-by-parity) |
 | [3483-unique-3-digit-even-numbers](https://github.com/madhavzanwar/leetcode-solutions/tree/master/3483-unique-3-digit-even-numbers) |
