@@ -52,6 +52,7 @@ My LeetCode problem-solving journey — tracking solutions and progress in DSA.
 | [1837-sum-of-digits-in-base-k](https://github.com/madhavzanwar/leetcode-solutions/tree/master/1837-sum-of-digits-in-base-k) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/madhavzanwar/leetcode-solutions/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1866-number-of-ways-to-rearrange-sticks-with-k-sticks-visible](https://github.com/madhavzanwar/leetcode-solutions/tree/master/1866-number-of-ways-to-rearrange-sticks-with-k-sticks-visible) |
+| [1952-three-divisors](https://github.com/madhavzanwar/leetcode-solutions/tree/master/1952-three-divisors) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/madhavzanwar/leetcode-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2119-a-number-after-a-double-reversal](https://github.com/madhavzanwar/leetcode-solutions/tree/master/2119-a-number-after-a-double-reversal) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/madhavzanwar/leetcode-solutions/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
@@ -547,6 +548,7 @@ My LeetCode problem-solving journey — tracking solutions and progress in DSA.
 |  |
 | ------- |
 | [1492-the-kth-factor-of-n](https://github.com/madhavzanwar/leetcode-solutions/tree/master/1492-the-kth-factor-of-n) |
+| [1952-three-divisors](https://github.com/madhavzanwar/leetcode-solutions/tree/master/1952-three-divisors) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/madhavzanwar/leetcode-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/madhavzanwar/leetcode-solutions/tree/master/2221-find-triangular-sum-of-an-array) |
 | [2413-smallest-even-multiple](https://github.com/madhavzanwar/leetcode-solutions/tree/master/2413-smallest-even-multiple) |
@@ -607,6 +609,7 @@ My LeetCode problem-solving journey — tracking solutions and progress in DSA.
 | [1291-sequential-digits](https://github.com/madhavzanwar/leetcode-solutions/tree/master/1291-sequential-digits) |
 | [1534-count-good-triplets](https://github.com/madhavzanwar/leetcode-solutions/tree/master/1534-count-good-triplets) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/madhavzanwar/leetcode-solutions/tree/master/1863-sum-of-all-subset-xor-totals) |
+| [1952-three-divisors](https://github.com/madhavzanwar/leetcode-solutions/tree/master/1952-three-divisors) |
 | [2367-number-of-arithmetic-triplets](https://github.com/madhavzanwar/leetcode-solutions/tree/master/2367-number-of-arithmetic-triplets) |
 | [2427-number-of-common-factors](https://github.com/madhavzanwar/leetcode-solutions/tree/master/2427-number-of-common-factors) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/madhavzanwar/leetcode-solutions/tree/master/2778-sum-of-squares-of-special-elements) |
@@ -923,4 +926,9 @@ My LeetCode problem-solving journey — tracking solutions and progress in DSA.
 |  |
 | ------- |
 | [1492-the-kth-factor-of-n](https://github.com/madhavzanwar/leetcode-solutions/tree/master/1492-the-kth-factor-of-n) |
+| [1952-three-divisors](https://github.com/madhavzanwar/leetcode-solutions/tree/master/1952-three-divisors) |
+## Sieve Theory
+|  |
+| ------- |
+| [1952-three-divisors](https://github.com/madhavzanwar/leetcode-solutions/tree/master/1952-three-divisors) |
 <!---LeetCode Topics End-->
