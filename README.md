@@ -22,6 +22,7 @@ My LeetCode problem-solving journey — tracking solutions and progress in DSA.
 | [0189-rotate-array](https://github.com/madhavzanwar/leetcode-solutions/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/madhavzanwar/leetcode-solutions/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/madhavzanwar/leetcode-solutions/tree/master/0231-power-of-two) |
+| [0258-add-digits](https://github.com/madhavzanwar/leetcode-solutions/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/madhavzanwar/leetcode-solutions/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/madhavzanwar/leetcode-solutions/tree/master/0268-missing-number) |
 | [0412-fizz-buzz](https://github.com/madhavzanwar/leetcode-solutions/tree/master/0412-fizz-buzz) |
@@ -176,6 +177,7 @@ My LeetCode problem-solving journey — tracking solutions and progress in DSA.
 | [0043-multiply-strings](https://github.com/madhavzanwar/leetcode-solutions/tree/master/0043-multiply-strings) |
 | [0054-spiral-matrix](https://github.com/madhavzanwar/leetcode-solutions/tree/master/0054-spiral-matrix) |
 | [0067-add-binary](https://github.com/madhavzanwar/leetcode-solutions/tree/master/0067-add-binary) |
+| [0258-add-digits](https://github.com/madhavzanwar/leetcode-solutions/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/madhavzanwar/leetcode-solutions/tree/master/0412-fizz-buzz) |
 | [0682-baseball-game](https://github.com/madhavzanwar/leetcode-solutions/tree/master/0682-baseball-game) |
 | [0832-flipping-an-image](https://github.com/madhavzanwar/leetcode-solutions/tree/master/0832-flipping-an-image) |
@@ -547,6 +549,7 @@ My LeetCode problem-solving journey — tracking solutions and progress in DSA.
 ## Number Theory
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/madhavzanwar/leetcode-solutions/tree/master/0258-add-digits) |
 | [1492-the-kth-factor-of-n](https://github.com/madhavzanwar/leetcode-solutions/tree/master/1492-the-kth-factor-of-n) |
 | [1952-three-divisors](https://github.com/madhavzanwar/leetcode-solutions/tree/master/1952-three-divisors) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/madhavzanwar/leetcode-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
